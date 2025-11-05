@@ -15,8 +15,8 @@ if [ ! -s "$fichier_brut" ]; then
         exit 1
 fi
 
-temp_actuelle=$(grep -m1 -o '"temp_C":"[0-9\-]*"' "$fichier_brut" | head -n1 | sed 's/[^0-9\-]//g')
-temp_demain=$(grep -A10 '"weather":\[{' "$fichier_brut" | grep -m1 '"avgtempC": "' | sed 's/[^0-9\-]//g')
+temp_actuelle=$(grep -m1 '"temp_C"' "$fichier_brut" | sed 's/[^0-9\-]//g')
+temp_demain=$(grep -m1 '"avgtempC"' "$fichier_brut" | sed 's/[^0-9\-]//g')
 
 date_actuelle=$(date +"%Y-%m-%d")
 heure_actuelle=$(date +"%H:%M")
