@@ -1,11 +1,8 @@
 #!/bin/bash
 
-ville_par_defaut = "Paris"
-
-if [ -z "$1" ]; then
-	ville="$ville_par_defaut"
-else
-	ville ="$1"
+ville="Paris"
+if [ -n "$1" ]; then
+	ville="$1"
 fi
 
 fichier_brut="meteo_brut.txt"
