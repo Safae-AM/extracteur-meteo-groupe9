@@ -1,13 +1,13 @@
 #!/bin/bash
 
-
+ville_par_defaut = "Paris"
 
 if [ -z "$1" ]; then
-    echo "usage:$0 <ville>"
-	exit 1
+	ville="$ville_par_defaut"
+else
+	ville ="$1"
 fi
 
-ville=$1
 fichier_brut="meteo_brut.txt"
 
 curl -s "wttr.in/${ville}?format=j1" >"$fichier_brut"
