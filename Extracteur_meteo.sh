@@ -1,8 +1,10 @@
 #!/bin/bash
 
+echo "lala"
+
 if [ -z "$1" ]; then
-        echo "usage: $0 <ville>"
-        exit 1
+    echo "usage:$0 <ville>"
+	exit 1
 fi
 
 ville=$1
@@ -11,7 +13,7 @@ fichier_brut="meteo_brut.txt"
 curl -s "wttr.in/${ville}?format=j1" >"$fichier_brut"
 
 if [ ! -s "$fichier_brut" ]; then
-        echo "erreur: Pas possible de récupérer llles données météo pour la ville marquée"
+        echo "erreur: Pas possible de récupérer les données météo pour la ville marquée"
         exit 1
 fi
 
