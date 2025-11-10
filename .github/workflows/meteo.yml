@@ -1,0 +1,31 @@
+name: Automatisation Météo
+
+# Déclenchement automatique toutes les heures
+on:
+  schedule:
+    - cron: '0 * * * *'  # toutes les heures
+  workflow_dispatch:      # permet un déclenchement manuel depuis GitHub
+
+jobs:
+  update-meteo:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout du dépôt
+      uses: actions/checkout@v3
+
+    - name: Installer curl
+      run: sudo apt-get update && sudo apt-get install -y curl jq
+
+    - name: Exécuter le script météo
+      run: |
+        chmod +x ./Extracteur_meteo.sh
+        ./Extracteur_meteo.sh
+
+    - name: Commit et push
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add meteo.txt
+        git commit -m "Mise à jour automatique météo" || echo "Rien à commit"
+        git push
