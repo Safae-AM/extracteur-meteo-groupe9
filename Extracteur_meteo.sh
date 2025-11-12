@@ -1,4 +1,4 @@
-find / -type f -name "meteo.txt" 2>/dev/null#!/bin/bash
+#!/bin/bash
 
 ville="Paris"
 if [ -n "$1" ]; then
