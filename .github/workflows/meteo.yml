@@ -32,3 +32,9 @@ jobs:
               git add .
               git commit -m "Mise à jour automatique météo" || echo "Aucune modification à committer"
               git push
+
+      - name: Vérification du contenu de meteo.txt
+        run: |
+          ls -l
+          cat meteo.txt || echo "meteo.txt introuvable"
+
