@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: Version-2-script-de-base  
+          persist-credentials: true 
 
       - name: Donner les droits d'exécution
         run: chmod +x Extracteur_meteo.sh
