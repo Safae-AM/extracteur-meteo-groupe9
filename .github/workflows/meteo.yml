@@ -16,7 +16,7 @@ jobs:
       - name: Récupération du code
         uses: actions/checkout@v3
         with:
-          ref: Version-2-script-de-base  
+          ref: Version-2-automatisation-periodique
           persist-credentials: true 
 
       - name: Donner les droits d'exécution
