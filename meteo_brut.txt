@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "15",
-            "FeelsLikeF": "59",
-            "cloudcover": "100",
-            "humidity": "82",
-            "localObsDateTime": "2025-11-15 02:56 PM",
-            "observation_time": "01:56 PM",
-            "precipInches": "0.0",
-            "precipMM": "1.1",
+            "FeelsLikeC": "14",
+            "FeelsLikeF": "57",
+            "cloudcover": "75",
+            "humidity": "88",
+            "localObsDateTime": "2025-11-15 03:46 PM",
+            "observation_time": "02:46 PM",
+            "precipInches": "0.1",
+            "precipMM": "1.3",
             "pressure": "1007",
             "pressureInches": "30",
-            "temp_C": "15",
-            "temp_F": "59",
-            "uvIndex": "1",
+            "temp_C": "14",
+            "temp_F": "58",
+            "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "302",
+            "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Rain shower"
+                    "value": "Light rain, rain shower"
                 }
             ],
             "weatherIconUrl": [
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SW",
-            "winddirDegree": "225",
-            "windspeedKmph": "10",
-            "windspeedMiles": "6"
+            "winddir16Point": "WSW",
+            "winddirDegree": "246",
+            "windspeedKmph": "9",
+            "windspeedMiles": "5"
         }
     ],
     "nearest_area": [
@@ -358,24 +358,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "69",
+                    "cloudcover": "75",
                     "diffRad": "47.1",
-                    "humidity": "81",
+                    "humidity": "88",
                     "precipInches": "0.1",
                     "precipMM": "1.3",
-                    "pressure": "1008",
+                    "pressure": "1007",
                     "pressureInches": "30",
                     "shortRad": "84.1",
                     "tempC": "14",
-                    "tempF": "57",
+                    "tempF": "58",
                     "time": "1500",
                     "uvIndex": "0",
-                    "visibility": "9",
-                    "visibilityMiles": "5",
-                    "weatherCode": "293",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Patchy light rain"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
