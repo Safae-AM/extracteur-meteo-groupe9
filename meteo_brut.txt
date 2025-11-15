@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "14",
-            "FeelsLikeF": "57",
-            "cloudcover": "75",
-            "humidity": "94",
-            "localObsDateTime": "2025-11-15 06:14 PM",
-            "observation_time": "05:14 PM",
+            "FeelsLikeC": "13",
+            "FeelsLikeF": "55",
+            "cloudcover": "100",
+            "humidity": "100",
+            "localObsDateTime": "2025-11-15 07:02 PM",
+            "observation_time": "06:02 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1008",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
+            "temp_C": "12",
+            "temp_F": "54",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
             "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light rain"
+                    "value": "Light drizzle"
                 }
             ],
             "weatherIconUrl": [
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "ESE",
-            "winddirDegree": "116",
+            "winddir16Point": "SSE",
+            "winddirDegree": "163",
             "windspeedKmph": "4",
-            "windspeedMiles": "2"
+            "windspeedMiles": "3"
         }
     ],
     "nearest_area": [
@@ -397,8 +397,8 @@
                     "HeatIndexF": "55",
                     "WindChillC": "13",
                     "WindChillF": "55",
-                    "WindGustKmph": "11",
-                    "WindGustMiles": "7",
+                    "WindGustKmph": "2",
+                    "WindGustMiles": "1",
                     "chanceoffog": "0",
                     "chanceoffrost": "0",
                     "chanceofhightemp": "0",
@@ -409,24 +409,24 @@
                     "chanceofsunshine": "83",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "75",
+                    "cloudcover": "36",
                     "diffRad": "20.5",
-                    "humidity": "94",
+                    "humidity": "86",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1008",
                     "pressureInches": "30",
                     "shortRad": "36.0",
                     "tempC": "13",
-                    "tempF": "56",
+                    "tempF": "55",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "296",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Light rain"
+                            "value": "Partly Cloudy "
                         }
                     ],
                     "weatherIconUrl": [
@@ -436,8 +436,8 @@
                     ],
                     "winddir16Point": "ESE",
                     "winddirDegree": "116",
-                    "windspeedKmph": "4",
-                    "windspeedMiles": "2"
+                    "windspeedKmph": "1",
+                    "windspeedMiles": "1"
                 },
                 {
                     "DewPointC": "10",
