@@ -5,8 +5,8 @@
             "FeelsLikeF": "59",
             "cloudcover": "100",
             "humidity": "82",
-            "localObsDateTime": "2025-11-15 02:08 PM",
-            "observation_time": "01:08 PM",
+            "localObsDateTime": "2025-11-15 02:56 PM",
+            "observation_time": "01:56 PM",
             "precipInches": "0.0",
             "precipMM": "1.1",
             "pressure": "1007",
@@ -16,10 +16,10 @@
             "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "122",
+            "weatherCode": "302",
             "weatherDesc": [
                 {
-                    "value": "Overcast"
+                    "value": "Rain shower"
                 }
             ],
             "weatherIconUrl": [
