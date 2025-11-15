@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "13",
-            "FeelsLikeF": "55",
+            "FeelsLikeC": "12",
+            "FeelsLikeF": "53",
             "cloudcover": "75",
             "humidity": "94",
-            "localObsDateTime": "2025-11-15 07:36 AM",
-            "observation_time": "06:36 AM",
+            "localObsDateTime": "2025-11-15 08:25 AM",
+            "observation_time": "07:25 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1007",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
+            "temp_C": "12",
+            "temp_F": "54",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "122",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Overcast"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "SE",
-            "winddirDegree": "139",
-            "windspeedKmph": "7",
+            "winddirDegree": "133",
+            "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
     ],
