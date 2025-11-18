@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "5",
-            "FeelsLikeF": "41",
-            "cloudcover": "0",
-            "humidity": "76",
-            "localObsDateTime": "2025-11-18 01:11 PM",
-            "observation_time": "12:11 PM",
+            "FeelsLikeC": "7",
+            "FeelsLikeF": "45",
+            "cloudcover": "100",
+            "humidity": "62",
+            "localObsDateTime": "2025-11-18 02:00 PM",
+            "observation_time": "01:00 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1021",
+            "pressure": "1020",
             "pressureInches": "30",
-            "temp_C": "7",
-            "temp_F": "45",
+            "temp_C": "9",
+            "temp_F": "49",
             "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "176",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Patchy rain nearby"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "W",
-            "winddirDegree": "262",
-            "windspeedKmph": "12",
+            "winddirDegree": "261",
+            "windspeedKmph": "13",
             "windspeedMiles": "8"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Le Kremlin-Bicetre"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
-            "longitude": "2.367",
-            "population": "27194",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
