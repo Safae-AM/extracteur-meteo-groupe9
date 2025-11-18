@@ -1,12 +1,12 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "5",
+            "FeelsLikeC": "4",
             "FeelsLikeF": "40",
             "cloudcover": "0",
             "humidity": "70",
-            "localObsDateTime": "2025-11-18 09:21 PM",
-            "observation_time": "08:21 PM",
+            "localObsDateTime": "2025-11-18 10:10 PM",
+            "observation_time": "09:10 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1015",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "119",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Cloudy"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "232",
-            "windspeedKmph": "14",
+            "winddirDegree": "226",
+            "windspeedKmph": "15",
             "windspeedMiles": "9"
         }
     ],
@@ -460,16 +460,16 @@
                     "chanceofsunshine": "18",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "77",
                     "diffRad": "0.0",
-                    "humidity": "70",
+                    "humidity": "61",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1015",
+                    "pressure": "1017",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "7",
-                    "tempF": "45",
+                    "tempC": "6",
+                    "tempF": "43",
                     "time": "2100",
                     "uvIndex": "0",
                     "visibility": "10",
