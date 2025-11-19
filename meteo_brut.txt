@@ -4,22 +4,22 @@
             "FeelsLikeC": "2",
             "FeelsLikeF": "36",
             "cloudcover": "100",
-            "humidity": "87",
-            "localObsDateTime": "2025-11-19 08:47 AM",
-            "observation_time": "07:47 AM",
+            "humidity": "93",
+            "localObsDateTime": "2025-11-19 09:36 AM",
+            "observation_time": "08:36 AM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "1.1",
             "pressure": "1007",
             "pressureInches": "30",
             "temp_C": "6",
             "temp_F": "43",
             "uvIndex": "0",
-            "visibility": "10",
-            "visibilityMiles": "6",
+            "visibility": "9",
+            "visibilityMiles": "5",
             "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle and rain"
+                    "value": "Light rain, light drizzle and rain"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "221",
+            "winddirDegree": "224",
             "windspeedKmph": "22",
             "windspeedMiles": "13"
         }
@@ -258,14 +258,14 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "1.1",
-                    "humidity": "83",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "1.1",
                     "pressure": "1007",
                     "pressureInches": "30",
                     "shortRad": "1.9",
-                    "tempC": "7",
-                    "tempF": "44",
+                    "tempC": "6",
+                    "tempF": "43",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "9",
