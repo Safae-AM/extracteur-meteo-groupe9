@@ -3,23 +3,23 @@
         {
             "FeelsLikeC": "3",
             "FeelsLikeF": "37",
-            "cloudcover": "75",
-            "humidity": "81",
-            "localObsDateTime": "2025-11-19 05:31 AM",
-            "observation_time": "04:31 AM",
+            "cloudcover": "100",
+            "humidity": "87",
+            "localObsDateTime": "2025-11-19 06:20 AM",
+            "observation_time": "05:20 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1009",
             "pressureInches": "30",
             "temp_C": "6",
-            "temp_F": "44",
+            "temp_F": "43",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "221",
-            "windspeedKmph": "20",
-            "windspeedMiles": "12"
+            "winddirDegree": "220",
+            "windspeedKmph": "21",
+            "windspeedMiles": "13"
         }
     ],
     "nearest_area": [
@@ -205,9 +205,9 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "88",
+                    "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "80",
+                    "humidity": "87",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1009",
@@ -219,10 +219,10 @@
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
