@@ -5,16 +5,16 @@
             "FeelsLikeF": "27",
             "cloudcover": "100",
             "humidity": "93",
-            "localObsDateTime": "2025-11-22 12:44 PM",
-            "observation_time": "11:44 AM",
+            "localObsDateTime": "2025-11-22 01:33 PM",
+            "observation_time": "12:33 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1028",
+            "pressure": "1027",
             "pressureInches": "30",
             "temp_C": "1",
             "temp_F": "34",
             "uvIndex": "1",
-            "visibility": "3",
+            "visibility": "4",
             "visibilityMiles": "2",
             "weatherCode": "143",
             "weatherDesc": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "196",
-            "windspeedKmph": "14",
+            "winddirDegree": "199",
+            "windspeedKmph": "15",
             "windspeedMiles": "9"
         }
     ],
@@ -309,22 +309,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "40.9",
-                    "humidity": "93",
+                    "humidity": "61",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1028",
+                    "pressure": "1027",
                     "pressureInches": "30",
                     "shortRad": "84.9",
-                    "tempC": "1",
-                    "tempF": "34",
+                    "tempC": "4",
+                    "tempF": "38",
                     "time": "1200",
                     "uvIndex": "1",
-                    "visibility": "3",
-                    "visibilityMiles": "2",
-                    "weatherCode": "143",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Mist"
+                            "value": "Overcast "
                         }
                     ],
                     "weatherIconUrl": [
