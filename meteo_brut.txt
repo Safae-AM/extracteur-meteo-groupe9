@@ -4,9 +4,9 @@
             "FeelsLikeC": "-5",
             "FeelsLikeF": "23",
             "cloudcover": "0",
-            "humidity": "93",
-            "localObsDateTime": "2025-11-22 07:01 AM",
-            "observation_time": "06:01 AM",
+            "humidity": "100",
+            "localObsDateTime": "2025-11-22 07:50 AM",
+            "observation_time": "06:50 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1028",
@@ -15,11 +15,11 @@
             "temp_F": "27",
             "uvIndex": "0",
             "visibility": "5",
-            "visibilityMiles": "3",
-            "weatherCode": "260",
+            "visibilityMiles": "2",
+            "weatherCode": "143",
             "weatherDesc": [
                 {
-                    "value": "Mist, freezing fog"
+                    "value": "Mist"
                 }
             ],
             "weatherIconUrl": [
