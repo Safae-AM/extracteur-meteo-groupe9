@@ -1,12 +1,12 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-4",
-            "FeelsLikeF": "25",
+            "FeelsLikeC": "-5",
+            "FeelsLikeF": "24",
             "cloudcover": "0",
-            "humidity": "100",
-            "localObsDateTime": "2025-11-22 05:24 AM",
-            "observation_time": "04:24 AM",
+            "humidity": "93",
+            "localObsDateTime": "2025-11-22 06:12 AM",
+            "observation_time": "05:12 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1029",
@@ -14,8 +14,8 @@
             "temp_C": "-3",
             "temp_F": "27",
             "uvIndex": "0",
-            "visibility": "5",
-            "visibilityMiles": "3",
+            "visibility": "4",
+            "visibilityMiles": "2",
             "weatherCode": "260",
             "weatherDesc": [
                 {
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "205",
-            "windspeedKmph": "4",
-            "windspeedMiles": "2"
+            "winddirDegree": "202",
+            "windspeedKmph": "5",
+            "windspeedMiles": "3"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -205,24 +205,24 @@
                     "chanceofsunshine": "90",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "12",
+                    "cloudcover": "0",
                     "diffRad": "0.0",
-                    "humidity": "79",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1029",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "0",
-                    "tempF": "33",
+                    "tempC": "-3",
+                    "tempF": "27",
                     "time": "600",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "113",
+                    "visibility": "4",
+                    "visibilityMiles": "2",
+                    "weatherCode": "260",
                     "weatherDesc": [
                         {
-                            "value": "Clear "
+                            "value": "Freezing fog"
                         }
                     ],
                     "weatherIconUrl": [
