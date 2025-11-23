@@ -2,11 +2,11 @@
     "current_condition": [
         {
             "FeelsLikeC": "5",
-            "FeelsLikeF": "41",
+            "FeelsLikeF": "40",
             "cloudcover": "50",
             "humidity": "100",
-            "localObsDateTime": "2025-11-23 06:08 PM",
-            "observation_time": "05:08 PM",
+            "localObsDateTime": "2025-11-23 06:57 PM",
+            "observation_time": "05:57 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "1003",
