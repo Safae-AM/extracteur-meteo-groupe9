@@ -5,8 +5,8 @@
             "FeelsLikeF": "37",
             "cloudcover": "75",
             "humidity": "100",
-            "localObsDateTime": "2025-11-23 11:01 PM",
-            "observation_time": "10:01 PM",
+            "localObsDateTime": "2025-11-23 11:51 PM",
+            "observation_time": "10:51 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1002",
@@ -14,8 +14,8 @@
             "temp_C": "6",
             "temp_F": "43",
             "uvIndex": "0",
-            "visibility": "8",
-            "visibilityMiles": "4",
+            "visibility": "10",
+            "visibilityMiles": "6",
             "weatherCode": "248",
             "weatherDesc": [
                 {
