@@ -3,13 +3,13 @@
         {
             "FeelsLikeC": "5",
             "FeelsLikeF": "41",
-            "cloudcover": "100",
+            "cloudcover": "75",
             "humidity": "87",
-            "localObsDateTime": "2025-11-24 06:38 PM",
-            "observation_time": "05:38 PM",
+            "localObsDateTime": "2025-11-24 07:27 PM",
+            "observation_time": "06:27 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "994",
+            "pressure": "995",
             "pressureInches": "29",
             "temp_C": "7",
             "temp_F": "45",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "232",
-            "windspeedKmph": "12",
-            "windspeedMiles": "8"
+            "winddirDegree": "224",
+            "windspeedKmph": "11",
+            "windspeedMiles": "7"
         }
     ],
     "nearest_area": [
@@ -409,24 +409,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "73",
                     "diffRad": "48.9",
-                    "humidity": "87",
+                    "humidity": "75",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "994",
+                    "pressure": "997",
                     "pressureInches": "29",
                     "shortRad": "124.5",
                     "tempC": "7",
-                    "tempF": "45",
+                    "tempF": "44",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "302",
+                    "weatherCode": "176",
                     "weatherDesc": [
                         {
-                            "value": "Moderate rain"
+                            "value": "Patchy rain nearby"
                         }
                     ],
                     "weatherIconUrl": [
