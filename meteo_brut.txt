@@ -5,8 +5,8 @@
             "FeelsLikeF": "40",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2025-11-24 08:01 AM",
-            "observation_time": "07:01 AM",
+            "localObsDateTime": "2025-11-24 08:50 AM",
+            "observation_time": "07:50 AM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "997",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Light rain"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
