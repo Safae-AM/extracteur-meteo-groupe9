@@ -5,8 +5,8 @@
             "FeelsLikeF": "40",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2025-11-24 06:23 AM",
-            "observation_time": "05:23 AM",
+            "localObsDateTime": "2025-11-24 07:12 AM",
+            "observation_time": "06:12 AM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "998",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "221",
-            "windspeedKmph": "14",
-            "windspeedMiles": "9"
+            "winddirDegree": "225",
+            "windspeedKmph": "15",
+            "windspeedMiles": "10"
         }
     ],
     "nearest_area": [
@@ -207,22 +207,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "75",
                     "diffRad": "0.0",
-                    "humidity": "93",
+                    "humidity": "91",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "998",
+                    "pressure": "999",
                     "pressureInches": "29",
                     "shortRad": "0.0",
-                    "tempC": "7",
-                    "tempF": "45",
+                    "tempC": "6",
+                    "tempF": "44",
                     "time": "600",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "296",
+                    "weatherCode": "176",
                     "weatherDesc": [
                         {
-                            "value": "Light rain"
+                            "value": "Patchy rain nearby"
                         }
                     ],
                     "weatherIconUrl": [
