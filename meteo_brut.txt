@@ -1,12 +1,12 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "4",
+            "FeelsLikeC": "5",
             "FeelsLikeF": "40",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2025-11-24 08:50 AM",
-            "observation_time": "07:50 AM",
+            "localObsDateTime": "2025-11-24 09:40 AM",
+            "observation_time": "08:40 AM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "997",
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SW",
-            "winddirDegree": "228",
-            "windspeedKmph": "16",
-            "windspeedMiles": "10"
+            "winddir16Point": "WSW",
+            "winddirDegree": "238",
+            "windspeedKmph": "15",
+            "windspeedMiles": "9"
         }
     ],
     "nearest_area": [
@@ -256,24 +256,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "60",
+                    "cloudcover": "75",
                     "diffRad": "3.5",
-                    "humidity": "91",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "998",
+                    "pressure": "997",
                     "pressureInches": "29",
                     "shortRad": "7.2",
-                    "tempC": "6",
-                    "tempF": "43",
+                    "tempC": "7",
+                    "tempF": "45",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Partly cloudy"
                         }
                     ],
                     "weatherIconUrl": [
