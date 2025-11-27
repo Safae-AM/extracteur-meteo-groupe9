@@ -1,12 +1,12 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "4",
-            "FeelsLikeF": "40",
+            "FeelsLikeC": "5",
+            "FeelsLikeF": "41",
             "cloudcover": "100",
             "humidity": "93",
-            "localObsDateTime": "2025-11-27 04:52 PM",
-            "observation_time": "03:52 PM",
+            "localObsDateTime": "2025-11-27 05:40 PM",
+            "observation_time": "04:40 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1021",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "198",
+            "winddirDegree": "195",
             "windspeedKmph": "14",
             "windspeedMiles": "9"
         }
