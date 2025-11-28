@@ -4,9 +4,9 @@
             "FeelsLikeC": "6",
             "FeelsLikeF": "43",
             "cloudcover": "75",
-            "humidity": "93",
-            "localObsDateTime": "2025-11-28 05:19 AM",
-            "observation_time": "04:19 AM",
+            "humidity": "100",
+            "localObsDateTime": "2025-11-28 05:56 AM",
+            "observation_time": "04:56 AM",
             "precipInches": "0.0",
             "precipMM": "0.7",
             "pressure": "1019",
@@ -14,12 +14,12 @@
             "temp_C": "8",
             "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "6",
-            "visibilityMiles": "3",
+            "visibility": "9",
+            "visibilityMiles": "5",
             "weatherCode": "302",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle, light drizzle and rain"
+                    "value": "Light drizzle and rain, light drizzle"
                 }
             ],
             "weatherIconUrl": [
