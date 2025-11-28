@@ -5,14 +5,14 @@
             "FeelsLikeF": "42",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2025-11-28 02:40 AM",
-            "observation_time": "01:40 AM",
+            "localObsDateTime": "2025-11-28 03:29 AM",
+            "observation_time": "02:29 AM",
             "precipInches": "0.0",
-            "precipMM": "0.3",
-            "pressure": "1020",
+            "precipMM": "0.5",
+            "pressure": "1019",
             "pressureInches": "30",
             "temp_C": "8",
-            "temp_F": "46",
+            "temp_F": "47",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "205",
+            "winddirDegree": "201",
             "windspeedKmph": "14",
             "windspeedMiles": "9"
         }
@@ -154,24 +154,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "0.0",
-                    "humidity": "94",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.5",
                     "pressure": "1019",
                     "pressureInches": "30",
                     "shortRad": "0.0",
                     "tempC": "8",
-                    "tempF": "46",
+                    "tempF": "47",
                     "time": "300",
                     "uvIndex": "0",
-                    "visibility": "2",
-                    "visibilityMiles": "1",
-                    "weatherCode": "266",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Light drizzle"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
