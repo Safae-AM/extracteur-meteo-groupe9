@@ -5,21 +5,21 @@
             "FeelsLikeF": "43",
             "cloudcover": "75",
             "humidity": "100",
-            "localObsDateTime": "2025-11-28 05:56 AM",
-            "observation_time": "04:56 AM",
+            "localObsDateTime": "2025-11-28 06:45 AM",
+            "observation_time": "05:45 AM",
             "precipInches": "0.0",
-            "precipMM": "0.7",
+            "precipMM": "0.6",
             "pressure": "1019",
             "pressureInches": "30",
             "temp_C": "8",
             "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "9",
-            "visibilityMiles": "5",
-            "weatherCode": "302",
+            "visibility": "7",
+            "visibilityMiles": "4",
+            "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle and rain, light drizzle"
+                    "value": "Light drizzle"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "208",
+            "winddirDegree": "212",
             "windspeedKmph": "13",
             "windspeedMiles": "8"
         }
@@ -205,24 +205,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "0.0",
-                    "humidity": "97",
+                    "humidity": "100",
                     "precipInches": "0.0",
                     "precipMM": "0.6",
-                    "pressure": "1018",
+                    "pressure": "1019",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "9",
+                    "tempC": "8",
                     "tempF": "47",
                     "time": "600",
                     "uvIndex": "0",
-                    "visibility": "2",
-                    "visibilityMiles": "1",
-                    "weatherCode": "266",
+                    "visibility": "7",
+                    "visibilityMiles": "4",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Light drizzle"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
