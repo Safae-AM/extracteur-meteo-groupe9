@@ -5,8 +5,8 @@
             "FeelsLikeF": "39",
             "cloudcover": "0",
             "humidity": "76",
-            "localObsDateTime": "2025-12-01 06:52 PM",
-            "observation_time": "05:52 PM",
+            "localObsDateTime": "2025-12-01 07:40 PM",
+            "observation_time": "06:40 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1011",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "119",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Cloudy"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -409,12 +409,12 @@
                     "chanceofsunshine": "18",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "74",
                     "diffRad": "40.8",
-                    "humidity": "76",
+                    "humidity": "61",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1011",
+                    "pressure": "1013",
                     "pressureInches": "30",
                     "shortRad": "99.3",
                     "tempC": "7",
