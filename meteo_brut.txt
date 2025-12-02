@@ -5,15 +5,15 @@
             "FeelsLikeF": "45",
             "cloudcover": "75",
             "humidity": "71",
-            "localObsDateTime": "2025-12-02 11:12 AM",
-            "observation_time": "10:12 AM",
+            "localObsDateTime": "2025-12-02 12:01 PM",
+            "observation_time": "11:01 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1009",
             "pressureInches": "30",
             "temp_C": "9",
             "temp_F": "49",
-            "uvIndex": "0",
+            "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
             "weatherCode": "122",
@@ -29,8 +29,8 @@
             ],
             "winddir16Point": "S",
             "winddirDegree": "187",
-            "windspeedKmph": "15",
-            "windspeedMiles": "9"
+            "windspeedKmph": "16",
+            "windspeedMiles": "10"
         }
     ],
     "nearest_area": [
@@ -307,16 +307,16 @@
                     "chanceofsunshine": "8",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "28.1",
-                    "humidity": "63",
+                    "humidity": "71",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1010",
+                    "pressure": "1009",
                     "pressureInches": "30",
                     "shortRad": "54.6",
                     "tempC": "9",
-                    "tempF": "47",
+                    "tempF": "49",
                     "time": "1200",
                     "uvIndex": "1",
                     "visibility": "10",
@@ -324,7 +324,7 @@
                     "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Overcast "
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
