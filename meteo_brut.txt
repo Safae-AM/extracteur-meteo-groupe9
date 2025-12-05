@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "1",
-            "FeelsLikeF": "34",
+            "FeelsLikeC": "2",
+            "FeelsLikeF": "36",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2025-12-05 02:20 PM",
-            "observation_time": "01:20 PM",
+            "localObsDateTime": "2025-12-05 03:09 PM",
+            "observation_time": "02:09 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1012",
+            "pressure": "1011",
             "pressureInches": "30",
-            "temp_C": "4",
-            "temp_F": "39",
-            "uvIndex": "1",
-            "visibility": "9",
-            "visibilityMiles": "5",
-            "weatherCode": "116",
+            "temp_C": "5",
+            "temp_F": "41",
+            "uvIndex": "0",
+            "visibility": "10",
+            "visibilityMiles": "6",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSW",
-            "winddirDegree": "198",
-            "windspeedKmph": "12",
+            "winddir16Point": "S",
+            "winddirDegree": "186",
+            "windspeedKmph": "13",
             "windspeedMiles": "8"
         }
     ],
@@ -358,16 +358,16 @@
                     "chanceofsunshine": "18",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "82.6",
-                    "humidity": "67",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1011",
                     "pressureInches": "30",
                     "shortRad": "207.7",
-                    "tempC": "8",
-                    "tempF": "46",
+                    "tempC": "5",
+                    "tempF": "41",
                     "time": "1500",
                     "uvIndex": "0",
                     "visibility": "10",
@@ -375,7 +375,7 @@
                     "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Overcast "
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
