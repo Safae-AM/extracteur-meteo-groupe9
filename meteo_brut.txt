@@ -1,15 +1,15 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "3",
-            "FeelsLikeF": "37",
+            "FeelsLikeC": "2",
+            "FeelsLikeF": "36",
             "cloudcover": "100",
             "humidity": "87",
-            "localObsDateTime": "2025-12-05 06:26 PM",
-            "observation_time": "05:26 PM",
+            "localObsDateTime": "2025-12-05 07:14 PM",
+            "observation_time": "06:14 PM",
             "precipInches": "0.0",
-            "precipMM": "0.2",
-            "pressure": "1010",
+            "precipMM": "0.3",
+            "pressure": "1009",
             "pressureInches": "30",
             "temp_C": "6",
             "temp_F": "43",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "S",
-            "winddirDegree": "179",
-            "windspeedKmph": "17",
-            "windspeedMiles": "11"
+            "winddirDegree": "191",
+            "windspeedKmph": "21",
+            "windspeedMiles": "13"
         }
     ],
     "nearest_area": [
@@ -411,22 +411,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "42.0",
-                    "humidity": "87",
+                    "humidity": "77",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
-                    "pressure": "1010",
+                    "pressure": "1011",
                     "pressureInches": "30",
                     "shortRad": "101.1",
-                    "tempC": "6",
-                    "tempF": "43",
+                    "tempC": "7",
+                    "tempF": "44",
                     "time": "1800",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "visibility": "2",
+                    "visibilityMiles": "1",
+                    "weatherCode": "266",
                     "weatherDesc": [
                         {
-                            "value": "Overcast"
+                            "value": "Light drizzle"
                         }
                     ],
                     "weatherIconUrl": [
