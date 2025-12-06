@@ -3,12 +3,12 @@
         {
             "FeelsLikeC": "7",
             "FeelsLikeF": "45",
-            "cloudcover": "100",
+            "cloudcover": "75",
             "humidity": "94",
-            "localObsDateTime": "2025-12-06 07:29 AM",
-            "observation_time": "06:29 AM",
+            "localObsDateTime": "2025-12-06 08:18 AM",
+            "observation_time": "07:18 AM",
             "precipInches": "0.0",
-            "precipMM": "0.7",
+            "precipMM": "0.2",
             "pressure": "1003",
             "pressureInches": "30",
             "temp_C": "10",
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "217",
+            "winddirDegree": "223",
             "windspeedKmph": "22",
-            "windspeedMiles": "13"
+            "windspeedMiles": "14"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Gentilly"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
+            "latitude": "48.817",
             "longitude": "2.333",
-            "population": "2110694",
+            "population": "15639",
             "region": [
                 {
                     "value": "Ile-de-France"
