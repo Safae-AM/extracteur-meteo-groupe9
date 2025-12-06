@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "7",
-            "FeelsLikeF": "45",
+            "FeelsLikeC": "8",
+            "FeelsLikeF": "46",
             "cloudcover": "75",
             "humidity": "94",
-            "localObsDateTime": "2025-12-06 08:18 AM",
-            "observation_time": "07:18 AM",
+            "localObsDateTime": "2025-12-06 09:07 AM",
+            "observation_time": "08:07 AM",
             "precipInches": "0.0",
             "precipMM": "0.2",
-            "pressure": "1003",
+            "pressure": "1004",
             "pressureInches": "30",
             "temp_C": "10",
-            "temp_F": "50",
+            "temp_F": "51",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle and rain"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "223",
-            "windspeedKmph": "22",
+            "winddirDegree": "224",
+            "windspeedKmph": "23",
             "windspeedMiles": "14"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -256,24 +256,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "63",
+                    "cloudcover": "75",
                     "diffRad": "1.1",
-                    "humidity": "82",
+                    "humidity": "94",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
-                    "pressure": "1005",
+                    "pressure": "1004",
                     "pressureInches": "30",
                     "shortRad": "2.3",
                     "tempC": "10",
-                    "tempF": "50",
+                    "tempF": "51",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "353",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Light rain shower"
+                            "value": "Partly cloudy"
                         }
                     ],
                     "weatherIconUrl": [
