@@ -4,9 +4,9 @@
             "FeelsLikeC": "9",
             "FeelsLikeF": "48",
             "cloudcover": "100",
-            "humidity": "87",
-            "localObsDateTime": "2025-12-07 04:43 AM",
-            "observation_time": "03:43 AM",
+            "humidity": "94",
+            "localObsDateTime": "2025-12-07 05:20 AM",
+            "observation_time": "04:20 AM",
             "precipInches": "0.0",
             "precipMM": "0.2",
             "pressure": "1009",
@@ -19,7 +19,7 @@
             "weatherCode": "302",
             "weatherDesc": [
                 {
-                    "value": "Rain"
+                    "value": "Light drizzle, rain"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "211",
+            "winddirDegree": "206",
             "windspeedKmph": "18",
             "windspeedMiles": "11"
         }
