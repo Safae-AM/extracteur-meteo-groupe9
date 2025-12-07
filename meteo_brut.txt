@@ -3,12 +3,12 @@
         {
             "FeelsLikeC": "9",
             "FeelsLikeF": "48",
-            "cloudcover": "100",
+            "cloudcover": "75",
             "humidity": "94",
-            "localObsDateTime": "2025-12-07 07:59 AM",
-            "observation_time": "06:59 AM",
+            "localObsDateTime": "2025-12-07 08:48 AM",
+            "observation_time": "07:48 AM",
             "precipInches": "0.1",
-            "precipMM": "1.5",
+            "precipMM": "2.6",
             "pressure": "1008",
             "pressureInches": "30",
             "temp_C": "11",
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSW",
-            "winddirDegree": "194",
-            "windspeedKmph": "17",
+            "winddir16Point": "S",
+            "winddirDegree": "189",
+            "windspeedKmph": "18",
             "windspeedMiles": "11"
         }
     ],
