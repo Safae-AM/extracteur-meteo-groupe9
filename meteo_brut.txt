@@ -5,10 +5,10 @@
             "FeelsLikeF": "57",
             "cloudcover": "75",
             "humidity": "82",
-            "localObsDateTime": "2025-12-08 11:45 AM",
-            "observation_time": "10:45 AM",
+            "localObsDateTime": "2025-12-08 12:34 PM",
+            "observation_time": "11:34 AM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.3",
             "pressure": "1015",
             "pressureInches": "30",
             "temp_C": "15",
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSW",
-            "winddirDegree": "208",
-            "windspeedKmph": "18",
-            "windspeedMiles": "11"
+            "winddir16Point": "SW",
+            "winddirDegree": "223",
+            "windspeedKmph": "21",
+            "windspeedMiles": "13"
         }
     ],
     "nearest_area": [
@@ -307,24 +307,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "70",
+                    "cloudcover": "75",
                     "diffRad": "10.3",
-                    "humidity": "80",
+                    "humidity": "82",
                     "precipInches": "0.0",
                     "precipMM": "0.3",
-                    "pressure": "1016",
+                    "pressure": "1015",
                     "pressureInches": "30",
                     "shortRad": "17.6",
-                    "tempC": "14",
-                    "tempF": "58",
+                    "tempC": "15",
+                    "tempF": "59",
                     "time": "1200",
                     "uvIndex": "0",
-                    "visibility": "5",
-                    "visibilityMiles": "3",
-                    "weatherCode": "263",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Patchy light drizzle"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
