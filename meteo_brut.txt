@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "10",
-            "FeelsLikeF": "49",
-            "cloudcover": "75",
+            "FeelsLikeC": "8",
+            "FeelsLikeF": "47",
+            "cloudcover": "50",
             "humidity": "87",
-            "localObsDateTime": "2025-12-10 08:56 PM",
-            "observation_time": "07:56 PM",
+            "localObsDateTime": "2025-12-10 09:44 PM",
+            "observation_time": "08:44 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1025",
             "pressureInches": "30",
-            "temp_C": "10",
-            "temp_F": "51",
+            "temp_C": "9",
+            "temp_F": "48",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "WSW",
-            "winddirDegree": "246",
-            "windspeedKmph": "7",
+            "winddir16Point": "W",
+            "winddirDegree": "265",
+            "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
     ],
@@ -460,24 +460,24 @@
                     "chanceofsunshine": "86",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "5",
+                    "cloudcover": "50",
                     "diffRad": "0.0",
-                    "humidity": "86",
+                    "humidity": "87",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1025",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "10",
-                    "tempF": "50",
+                    "tempC": "9",
+                    "tempF": "48",
                     "time": "2100",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "113",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Clear "
+                            "value": "Partly cloudy"
                         }
                     ],
                     "weatherIconUrl": [
