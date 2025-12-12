@@ -3,10 +3,10 @@
         {
             "FeelsLikeC": "10",
             "FeelsLikeF": "49",
-            "cloudcover": "75",
+            "cloudcover": "100",
             "humidity": "94",
-            "localObsDateTime": "2025-12-12 07:13 AM",
-            "observation_time": "06:13 AM",
+            "localObsDateTime": "2025-12-12 08:02 AM",
+            "observation_time": "07:02 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1018",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "143",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Mist"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "S",
-            "winddirDegree": "177",
-            "windspeedKmph": "7",
+            "winddirDegree": "174",
+            "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
     ],
