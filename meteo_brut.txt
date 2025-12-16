@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "13",
-            "FeelsLikeF": "55",
+            "FeelsLikeC": "14",
+            "FeelsLikeF": "57",
             "cloudcover": "0",
             "humidity": "72",
-            "localObsDateTime": "2025-12-16 01:18 PM",
-            "observation_time": "12:18 PM",
+            "localObsDateTime": "2025-12-16 02:07 PM",
+            "observation_time": "01:07 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1010",
+            "pressure": "1011",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
+            "temp_C": "14",
+            "temp_F": "57",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSE",
-            "winddirDegree": "154",
+            "winddirDegree": "155",
             "windspeedKmph": "8",
             "windspeedMiles": "5"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Cachan"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.783",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "25391",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
