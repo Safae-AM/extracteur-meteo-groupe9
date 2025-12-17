@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "11",
-            "FeelsLikeF": "51",
-            "cloudcover": "100",
-            "humidity": "71",
-            "localObsDateTime": "2025-12-17 02:36 PM",
-            "observation_time": "01:36 PM",
+            "FeelsLikeC": "9",
+            "FeelsLikeF": "49",
+            "cloudcover": "75",
+            "humidity": "76",
+            "localObsDateTime": "2025-12-17 03:25 PM",
+            "observation_time": "02:25 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1020",
             "pressureInches": "30",
-            "temp_C": "11",
-            "temp_F": "52",
+            "temp_C": "10",
+            "temp_F": "50",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "122",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Overcast"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -27,17 +27,17 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "WSW",
-            "winddirDegree": "237",
-            "windspeedKmph": "7",
-            "windspeedMiles": "4"
+            "winddir16Point": "SW",
+            "winddirDegree": "223",
+            "windspeedKmph": "8",
+            "windspeedMiles": "5"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -358,24 +358,24 @@
                     "chanceofsunshine": "90",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "18",
+                    "cloudcover": "75",
                     "diffRad": "59.3",
-                    "humidity": "63",
+                    "humidity": "76",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1020",
                     "pressureInches": "30",
                     "shortRad": "228.2",
-                    "tempC": "11",
-                    "tempF": "52",
+                    "tempC": "10",
+                    "tempF": "50",
                     "time": "1500",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "113",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Sunny"
+                            "value": "Partly cloudy"
                         }
                     ],
                     "weatherIconUrl": [
