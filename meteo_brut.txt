@@ -2,24 +2,24 @@
     "current_condition": [
         {
             "FeelsLikeC": "11",
-            "FeelsLikeF": "52",
-            "cloudcover": "75",
-            "humidity": "66",
-            "localObsDateTime": "2025-12-17 01:49 PM",
-            "observation_time": "12:49 PM",
+            "FeelsLikeF": "51",
+            "cloudcover": "100",
+            "humidity": "71",
+            "localObsDateTime": "2025-12-17 02:36 PM",
+            "observation_time": "01:36 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1020",
             "pressureInches": "30",
             "temp_C": "11",
             "temp_F": "52",
-            "uvIndex": "1",
+            "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -27,17 +27,17 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SW",
-            "winddirDegree": "225",
-            "windspeedKmph": "5",
-            "windspeedMiles": "3"
+            "winddir16Point": "WSW",
+            "winddirDegree": "237",
+            "windspeedKmph": "7",
+            "windspeedMiles": "4"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Gentilly"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
+            "latitude": "48.817",
             "longitude": "2.333",
-            "population": "2110694",
+            "population": "15639",
             "region": [
                 {
                     "value": "Ile-de-France"
