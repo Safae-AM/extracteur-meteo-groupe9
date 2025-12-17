@@ -6,6 +6,7 @@ if [ -n "$1" ]; then
 fi
 
 fichier_brut="meteo_brut.txt"
+fichier_meteo="meteo_$(date +%Y%m%d).txt"
 
 curl -s "wttr.in/${ville}?format=j1" >"$fichier_brut"
 
@@ -20,7 +21,8 @@ temp_demain=$(grep -m1 '"avgtempC"' "$fichier_brut" | sed 's/[^0-9\-]//g')
 date_actuelle=$(date +"%Y-%m-%d")
 heure_actuelle=$(date +"%H:%M")
 
-echo "${date_actuelle} - ${heure_actuelle} - ${ville} : ${temp_actuelle}°C - ${temp_demain}°C" >>meteo.txt
+echo "${date_actuelle} - ${heure_actuelle} - ${ville} : ${temp_actuelle}°C - ${temp_demain}°C" >>$fichier_meteo
 
-echo "météo enregistrée dans meteo.txt"
+echo "météo enregistrée dans $fichier_meteo"
+
 
