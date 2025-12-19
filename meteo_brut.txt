@@ -1,15 +1,15 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "10",
-            "FeelsLikeF": "50",
-            "cloudcover": "100",
+            "FeelsLikeC": "11",
+            "FeelsLikeF": "51",
+            "cloudcover": "75",
             "humidity": "94",
-            "localObsDateTime": "2025-12-19 06:39 AM",
-            "observation_time": "05:39 AM",
-            "precipInches": "0.1",
-            "precipMM": "1.4",
-            "pressure": "1015",
+            "localObsDateTime": "2025-12-19 07:27 AM",
+            "observation_time": "06:27 AM",
+            "precipInches": "0.0",
+            "precipMM": "1.2",
+            "pressure": "1016",
             "pressureInches": "30",
             "temp_C": "12",
             "temp_F": "54",
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSW",
-            "winddirDegree": "212",
-            "windspeedKmph": "21",
-            "windspeedMiles": "13"
+            "winddir16Point": "WSW",
+            "winddirDegree": "243",
+            "windspeedKmph": "15",
+            "windspeedMiles": "9"
         }
     ],
     "nearest_area": [
@@ -207,18 +207,18 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "94",
+                    "humidity": "87",
                     "precipInches": "0.1",
                     "precipMM": "1.4",
-                    "pressure": "1015",
+                    "pressure": "1014",
                     "pressureInches": "30",
                     "shortRad": "0.0",
                     "tempC": "12",
-                    "tempF": "54",
+                    "tempF": "53",
                     "time": "600",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
+                    "visibility": "9",
+                    "visibilityMiles": "5",
                     "weatherCode": "296",
                     "weatherDesc": [
                         {
