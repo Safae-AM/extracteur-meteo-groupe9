@@ -2,24 +2,24 @@
     "current_condition": [
         {
             "FeelsLikeC": "11",
-            "FeelsLikeF": "51",
+            "FeelsLikeF": "52",
             "cloudcover": "100",
             "humidity": "82",
-            "localObsDateTime": "2025-12-19 03:22 AM",
-            "observation_time": "02:22 AM",
+            "localObsDateTime": "2025-12-19 04:11 AM",
+            "observation_time": "03:11 AM",
             "precipInches": "0.0",
-            "precipMM": "0.2",
+            "precipMM": "0.1",
             "pressure": "1014",
             "pressureInches": "30",
             "temp_C": "13",
-            "temp_F": "55",
+            "temp_F": "56",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
             "weatherCode": "302",
             "weatherDesc": [
                 {
-                    "value": "Rain"
+                    "value": "Light drizzle and rain, rain"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "197",
+            "winddirDegree": "203",
             "windspeedKmph": "26",
             "windspeedMiles": "16"
         }
@@ -159,19 +159,19 @@
                     "humidity": "82",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
-                    "pressure": "1014",
+                    "pressure": "1013",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "13",
-                    "tempF": "55",
+                    "tempC": "12",
+                    "tempF": "54",
                     "time": "300",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "302",
+                    "visibility": "2",
+                    "visibilityMiles": "1",
+                    "weatherCode": "266",
                     "weatherDesc": [
                         {
-                            "value": "Moderate rain"
+                            "value": "Light drizzle"
                         }
                     ],
                     "weatherIconUrl": [
