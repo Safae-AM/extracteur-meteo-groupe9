@@ -4,18 +4,18 @@
             "FeelsLikeC": "7",
             "FeelsLikeF": "45",
             "cloudcover": "100",
-            "humidity": "93",
-            "localObsDateTime": "2025-12-20 08:46 AM",
-            "observation_time": "07:46 AM",
+            "humidity": "100",
+            "localObsDateTime": "2025-12-20 09:35 AM",
+            "observation_time": "08:35 AM",
             "precipInches": "0.0",
-            "precipMM": "0.1",
-            "pressure": "1016",
+            "precipMM": "0.2",
+            "pressure": "1015",
             "pressureInches": "30",
             "temp_C": "8",
             "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "10",
-            "visibilityMiles": "6",
+            "visibility": "6",
+            "visibilityMiles": "3",
             "weatherCode": "296",
             "weatherDesc": [
                 {
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "E",
-            "winddirDegree": "97",
+            "winddirDegree": "100",
             "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Gentilly"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
+            "latitude": "48.817",
             "longitude": "2.333",
-            "population": "2110694",
+            "population": "15639",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -258,7 +258,7 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "92",
+                    "humidity": "100",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
                     "pressure": "1015",
@@ -268,12 +268,12 @@
                     "tempF": "47",
                     "time": "900",
                     "uvIndex": "0",
-                    "visibility": "2",
-                    "visibilityMiles": "1",
-                    "weatherCode": "266",
+                    "visibility": "6",
+                    "visibilityMiles": "3",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Light drizzle"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
