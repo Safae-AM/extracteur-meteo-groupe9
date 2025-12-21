@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "8",
-            "FeelsLikeF": "47",
+            "FeelsLikeC": "7",
+            "FeelsLikeF": "45",
             "cloudcover": "0",
-            "humidity": "93",
-            "localObsDateTime": "2025-12-21 04:22 AM",
-            "observation_time": "03:22 AM",
+            "humidity": "100",
+            "localObsDateTime": "2025-12-21 05:19 AM",
+            "observation_time": "04:19 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1009",
             "pressureInches": "30",
-            "temp_C": "9",
-            "temp_F": "49",
+            "temp_C": "8",
+            "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "8",
-            "visibilityMiles": "4",
-            "weatherCode": "143",
+            "visibility": "6",
+            "visibilityMiles": "3",
+            "weatherCode": "119",
             "weatherDesc": [
                 {
-                    "value": "Mist"
+                    "value": "Cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SE",
-            "winddirDegree": "143",
+            "winddirDegree": "131",
             "windspeedKmph": "7",
             "windspeedMiles": "4"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Le Kremlin-Bicetre"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
-            "longitude": "2.367",
-            "population": "27194",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
