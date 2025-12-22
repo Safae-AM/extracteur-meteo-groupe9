@@ -5,21 +5,21 @@
             "FeelsLikeF": "44",
             "cloudcover": "0",
             "humidity": "100",
-            "localObsDateTime": "2025-12-22 08:57 AM",
-            "observation_time": "07:57 AM",
+            "localObsDateTime": "2025-12-22 09:46 AM",
+            "observation_time": "08:46 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1006",
+            "pressure": "1007",
             "pressureInches": "30",
             "temp_C": "7",
             "temp_F": "45",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "119",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Cloudy"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSW",
-            "winddirDegree": "206",
+            "winddir16Point": "ENE",
+            "winddirDegree": "68",
             "windspeedKmph": "4",
             "windspeedMiles": "2"
         }
@@ -244,8 +244,8 @@
                     "HeatIndexF": "49",
                     "WindChillC": "9",
                     "WindChillF": "49",
-                    "WindGustKmph": "0",
-                    "WindGustMiles": "0",
+                    "WindGustKmph": "11",
+                    "WindGustMiles": "7",
                     "chanceoffog": "0",
                     "chanceoffrost": "0",
                     "chanceofhightemp": "0",
@@ -256,16 +256,16 @@
                     "chanceofsunshine": "19",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "0",
                     "diffRad": "0.1",
-                    "humidity": "83",
+                    "humidity": "100",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1007",
                     "pressureInches": "30",
                     "shortRad": "0.2",
-                    "tempC": "9",
-                    "tempF": "49",
+                    "tempC": "7",
+                    "tempF": "45",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
@@ -283,8 +283,8 @@
                     ],
                     "winddir16Point": "ENE",
                     "winddirDegree": "68",
-                    "windspeedKmph": "0",
-                    "windspeedMiles": "0"
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
                 },
                 {
                     "DewPointC": "7",
