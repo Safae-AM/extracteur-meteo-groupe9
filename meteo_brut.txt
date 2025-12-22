@@ -3,23 +3,23 @@
         {
             "FeelsLikeC": "9",
             "FeelsLikeF": "48",
-            "cloudcover": "0",
+            "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2025-12-22 12:13 PM",
-            "observation_time": "11:13 AM",
+            "localObsDateTime": "2025-12-22 01:02 PM",
+            "observation_time": "12:02 PM",
             "precipInches": "0.0",
-            "precipMM": "0.1",
-            "pressure": "1008",
+            "precipMM": "0.0",
+            "pressure": "1007",
             "pressureInches": "30",
             "temp_C": "9",
-            "temp_F": "48",
+            "temp_F": "49",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "176",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Patchy rain nearby"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "E",
-            "winddirDegree": "93",
+            "winddir16Point": "ESE",
+            "winddirDegree": "103",
             "windspeedKmph": "5",
             "windspeedMiles": "3"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Le Kremlin-Bicetre"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
-            "longitude": "2.333",
-            "population": "2110694",
+            "latitude": "48.817",
+            "longitude": "2.367",
+            "population": "27194",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -307,16 +307,16 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "83",
                     "diffRad": "14.3",
-                    "humidity": "93",
+                    "humidity": "85",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
                     "pressure": "1008",
                     "pressureInches": "30",
                     "shortRad": "26.1",
-                    "tempC": "9",
-                    "tempF": "48",
+                    "tempC": "10",
+                    "tempF": "50",
                     "time": "1200",
                     "uvIndex": "0",
                     "visibility": "10",
