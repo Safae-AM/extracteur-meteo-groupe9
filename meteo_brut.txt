@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "1",
-            "FeelsLikeF": "34",
+            "FeelsLikeC": "2",
+            "FeelsLikeF": "35",
             "cloudcover": "100",
-            "humidity": "75",
-            "localObsDateTime": "2025-12-24 12:58 AM",
-            "observation_time": "11:58 PM",
+            "humidity": "70",
+            "localObsDateTime": "2025-12-24 03:25 AM",
+            "observation_time": "02:25 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1019",
+            "pressure": "1020",
             "pressureInches": "30",
             "temp_C": "5",
-            "temp_F": "41",
+            "temp_F": "42",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "NE",
-            "winddirDegree": "42",
+            "winddirDegree": "41",
             "windspeedKmph": "18",
             "windspeedMiles": "11"
         }
@@ -154,24 +154,24 @@
                     "chanceofsunshine": "87",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "44",
+                    "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "78",
+                    "humidity": "70",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1020",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "3",
-                    "tempF": "38",
+                    "tempC": "5",
+                    "tempF": "42",
                     "time": "300",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "116",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Partly Cloudy "
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
