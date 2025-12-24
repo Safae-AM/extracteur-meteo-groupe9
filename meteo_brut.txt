@@ -5,8 +5,8 @@
             "FeelsLikeF": "31",
             "cloudcover": "100",
             "humidity": "70",
-            "localObsDateTime": "2025-12-24 12:24 PM",
-            "observation_time": "11:24 AM",
+            "localObsDateTime": "2025-12-24 01:13 PM",
+            "observation_time": "12:13 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1024",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "NE",
-            "winddirDegree": "42",
+            "winddirDegree": "40",
             "windspeedKmph": "24",
             "windspeedMiles": "15"
         }
@@ -307,24 +307,24 @@
                     "chanceofsunshine": "86",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "2",
                     "diffRad": "24.3",
-                    "humidity": "70",
+                    "humidity": "59",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1024",
+                    "pressure": "1025",
                     "pressureInches": "30",
                     "shortRad": "90.2",
-                    "tempC": "4",
-                    "tempF": "39",
+                    "tempC": "3",
+                    "tempF": "37",
                     "time": "1200",
                     "uvIndex": "1",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "weatherCode": "113",
                     "weatherDesc": [
                         {
-                            "value": "Overcast"
+                            "value": "Sunny"
                         }
                     ],
                     "weatherIconUrl": [
