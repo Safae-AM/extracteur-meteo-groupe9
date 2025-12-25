@@ -5,15 +5,15 @@
             "FeelsLikeF": "26",
             "cloudcover": "0",
             "humidity": "69",
-            "localObsDateTime": "2025-12-25 11:17 AM",
-            "observation_time": "10:17 AM",
+            "localObsDateTime": "2025-12-25 12:05 PM",
+            "observation_time": "11:05 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1022",
+            "pressure": "1023",
             "pressureInches": "30",
             "temp_C": "1",
             "temp_F": "34",
-            "uvIndex": "0",
+            "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
             "weatherCode": "113",
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "ENE",
-            "winddirDegree": "70",
-            "windspeedKmph": "19",
-            "windspeedMiles": "12"
+            "winddirDegree": "73",
+            "windspeedKmph": "18",
+            "windspeedMiles": "11"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -307,16 +307,16 @@
                     "chanceofsunshine": "92",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "10",
+                    "cloudcover": "0",
                     "diffRad": "24.4",
-                    "humidity": "53",
+                    "humidity": "69",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1023",
                     "pressureInches": "30",
                     "shortRad": "85.9",
-                    "tempC": "2",
-                    "tempF": "35",
+                    "tempC": "1",
+                    "tempF": "34",
                     "time": "1200",
                     "uvIndex": "1",
                     "visibility": "10",
