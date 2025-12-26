@@ -5,17 +5,17 @@
             "FeelsLikeF": "27",
             "cloudcover": "0",
             "humidity": "86",
-            "localObsDateTime": "2025-12-26 10:23 PM",
-            "observation_time": "09:23 PM",
+            "localObsDateTime": "2025-12-26 11:13 PM",
+            "observation_time": "10:13 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1028",
+            "pressure": "1027",
             "pressureInches": "30",
             "temp_C": "0",
             "temp_F": "32",
             "uvIndex": "0",
-            "visibility": "7",
-            "visibilityMiles": "4",
+            "visibility": "9",
+            "visibilityMiles": "5",
             "weatherCode": "122",
             "weatherDesc": [
                 {
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "NE",
-            "winddirDegree": "42",
+            "winddirDegree": "40",
             "windspeedKmph": "9",
-            "windspeedMiles": "5"
+            "windspeedMiles": "6"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Villejuif"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
-            "longitude": "2.333",
-            "population": "2110694",
+            "latitude": "48.800",
+            "longitude": "2.367",
+            "population": "46913",
             "region": [
                 {
                     "value": "Ile-de-France"
