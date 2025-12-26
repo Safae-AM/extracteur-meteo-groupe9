@@ -5,8 +5,8 @@
             "FeelsLikeF": "19",
             "cloudcover": "0",
             "humidity": "93",
-            "localObsDateTime": "2025-12-26 07:41 AM",
-            "observation_time": "06:41 AM",
+            "localObsDateTime": "2025-12-26 08:30 AM",
+            "observation_time": "07:30 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1024",
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "NE",
-            "winddirDegree": "52",
+            "winddir16Point": "ENE",
+            "winddirDegree": "58",
             "windspeedKmph": "12",
             "windspeedMiles": "7"
         }
