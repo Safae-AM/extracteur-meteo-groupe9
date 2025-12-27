@@ -2,11 +2,11 @@
     "current_condition": [
         {
             "FeelsLikeC": "-1",
-            "FeelsLikeF": "29",
+            "FeelsLikeF": "30",
             "cloudcover": "0",
             "humidity": "86",
-            "localObsDateTime": "2025-12-27 05:59 PM",
-            "observation_time": "04:59 PM",
+            "localObsDateTime": "2025-12-27 06:48 PM",
+            "observation_time": "05:48 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1029",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "NE",
-            "winddirDegree": "50",
+            "winddirDegree": "42",
             "windspeedKmph": "8",
             "windspeedMiles": "5"
         }
@@ -411,14 +411,14 @@
                     "chanceofwindy": "0",
                     "cloudcover": "0",
                     "diffRad": "31.6",
-                    "humidity": "60",
+                    "humidity": "86",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1029",
                     "pressureInches": "30",
                     "shortRad": "129.9",
-                    "tempC": "2",
-                    "tempF": "36",
+                    "tempC": "1",
+                    "tempF": "34",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
