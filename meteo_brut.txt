@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-4",
-            "FeelsLikeF": "25",
+            "FeelsLikeC": "-3",
+            "FeelsLikeF": "26",
             "cloudcover": "0",
             "humidity": "93",
-            "localObsDateTime": "2025-12-28 09:45 PM",
-            "observation_time": "08:45 PM",
+            "localObsDateTime": "2025-12-28 10:34 PM",
+            "observation_time": "09:34 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1026",
             "pressureInches": "30",
             "temp_C": "-1",
-            "temp_F": "30",
+            "temp_F": "31",
             "uvIndex": "0",
-            "visibility": "7",
-            "visibilityMiles": "4",
-            "weatherCode": "113",
+            "visibility": "5",
+            "visibilityMiles": "3",
+            "weatherCode": "143",
             "weatherDesc": [
                 {
-                    "value": "Clear"
+                    "value": "Mist"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "NE",
-            "winddirDegree": "47",
-            "windspeedKmph": "9",
+            "winddirDegree": "42",
+            "windspeedKmph": "8",
             "windspeedMiles": "5"
         }
     ],
@@ -462,18 +462,18 @@
                     "chanceofwindy": "0",
                     "cloudcover": "0",
                     "diffRad": "0.0",
-                    "humidity": "93",
+                    "humidity": "79",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1026",
+                    "pressure": "1025",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-1",
-                    "tempF": "30",
+                    "tempC": "1",
+                    "tempF": "34",
                     "time": "2100",
                     "uvIndex": "0",
-                    "visibility": "7",
-                    "visibilityMiles": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
                     "weatherCode": "113",
                     "weatherDesc": [
                         {
