@@ -5,8 +5,8 @@
             "FeelsLikeF": "22",
             "cloudcover": "0",
             "humidity": "100",
-            "localObsDateTime": "2026-01-01 04:58 AM",
-            "observation_time": "03:58 AM",
+            "localObsDateTime": "2026-01-01 05:47 AM",
+            "observation_time": "04:47 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1019",
@@ -14,8 +14,8 @@
             "temp_C": "-3",
             "temp_F": "27",
             "uvIndex": "0",
-            "visibility": "6",
-            "visibilityMiles": "3",
+            "visibility": "1",
+            "visibilityMiles": "0",
             "weatherCode": "143",
             "weatherDesc": [
                 {
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "WSW",
-            "winddirDegree": "237",
+            "winddirDegree": "238",
             "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
