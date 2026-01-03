@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-3",
-            "FeelsLikeF": "27",
-            "cloudcover": "0",
-            "humidity": "71",
-            "localObsDateTime": "2026-01-03 01:53 AM",
-            "observation_time": "12:53 AM",
+            "FeelsLikeC": "-5",
+            "FeelsLikeF": "23",
+            "cloudcover": "25",
+            "humidity": "93",
+            "localObsDateTime": "2026-01-03 03:31 AM",
+            "observation_time": "02:31 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1011",
+            "pressure": "1010",
             "pressureInches": "30",
-            "temp_C": "-0",
-            "temp_F": "31",
+            "temp_C": "-2",
+            "temp_F": "29",
             "uvIndex": "0",
-            "visibility": "10",
-            "visibilityMiles": "6",
-            "weatherCode": "113",
+            "visibility": "4",
+            "visibilityMiles": "2",
+            "weatherCode": "143",
             "weatherDesc": [
                 {
-                    "value": "Clear"
+                    "value": "Mist"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "WSW",
-            "winddirDegree": "256",
-            "windspeedKmph": "8",
+            "winddirDegree": "250",
+            "windspeedKmph": "9",
             "windspeedMiles": "5"
         }
     ],
@@ -154,24 +154,24 @@
                     "chanceofsunshine": "92",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "25",
                     "diffRad": "0.0",
-                    "humidity": "71",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1011",
+                    "pressure": "1010",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-0",
-                    "tempF": "31",
+                    "tempC": "-2",
+                    "tempF": "29",
                     "time": "300",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "113",
+                    "visibility": "4",
+                    "visibilityMiles": "2",
+                    "weatherCode": "143",
                     "weatherDesc": [
                         {
-                            "value": "Clear "
+                            "value": "Mist"
                         }
                     ],
                     "weatherIconUrl": [
