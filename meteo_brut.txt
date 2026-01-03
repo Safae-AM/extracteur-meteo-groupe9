@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-5",
-            "FeelsLikeF": "22",
-            "cloudcover": "100",
-            "humidity": "93",
-            "localObsDateTime": "2026-01-03 08:25 AM",
-            "observation_time": "07:25 AM",
+            "FeelsLikeC": "-4",
+            "FeelsLikeF": "25",
+            "cloudcover": "0",
+            "humidity": "86",
+            "localObsDateTime": "2026-01-03 09:14 AM",
+            "observation_time": "08:14 AM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
-            "pressure": "1008",
+            "precipMM": "0.1",
+            "pressure": "1009",
             "pressureInches": "30",
-            "temp_C": "-1",
-            "temp_F": "30",
+            "temp_C": "0",
+            "temp_F": "33",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "122",
+            "weatherCode": "332",
             "weatherDesc": [
                 {
-                    "value": "Overcast"
+                    "value": "Moderate snow"
                 }
             ],
             "weatherIconUrl": [
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "WSW",
-            "winddirDegree": "259",
+            "winddir16Point": "W",
+            "winddirDegree": "260",
             "windspeedKmph": "14",
             "windspeedMiles": "9"
         }
@@ -256,7 +256,7 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "80",
+                    "cloudcover": "0",
                     "diffRad": "0.1",
                     "humidity": "86",
                     "precipInches": "0.0",
@@ -264,12 +264,12 @@
                     "pressure": "1009",
                     "pressureInches": "30",
                     "shortRad": "0.3",
-                    "tempC": "-0",
-                    "tempF": "31",
+                    "tempC": "0",
+                    "tempF": "33",
                     "time": "900",
                     "uvIndex": "0",
-                    "visibility": "5",
-                    "visibilityMiles": "3",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
                     "weatherCode": "332",
                     "weatherDesc": [
                         {
