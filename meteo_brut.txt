@@ -4,9 +4,9 @@
             "FeelsLikeC": "-3",
             "FeelsLikeF": "27",
             "cloudcover": "100",
-            "humidity": "86",
-            "localObsDateTime": "2026-01-05 03:08 PM",
-            "observation_time": "02:08 PM",
+            "humidity": "93",
+            "localObsDateTime": "2026-01-05 03:57 PM",
+            "observation_time": "02:57 PM",
             "precipInches": "0.0",
             "precipMM": "0.2",
             "pressure": "1013",
@@ -14,12 +14,12 @@
             "temp_C": "0",
             "temp_F": "32",
             "uvIndex": "0",
-            "visibility": "9",
-            "visibilityMiles": "5",
-            "weatherCode": "332",
+            "visibility": "1",
+            "visibilityMiles": "0",
+            "weatherCode": "338",
             "weatherDesc": [
                 {
-                    "value": "Snow"
+                    "value": "Snow, mist"
                 }
             ],
             "weatherIconUrl": [
@@ -360,7 +360,7 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "45.1",
-                    "humidity": "86",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
                     "pressure": "1013",
@@ -370,12 +370,12 @@
                     "tempF": "32",
                     "time": "1500",
                     "uvIndex": "0",
-                    "visibility": "9",
-                    "visibilityMiles": "5",
-                    "weatherCode": "332",
+                    "visibility": "1",
+                    "visibilityMiles": "0",
+                    "weatherCode": "338",
                     "weatherDesc": [
                         {
-                            "value": "Moderate snow"
+                            "value": "Heavy snow"
                         }
                     ],
                     "weatherIconUrl": [
