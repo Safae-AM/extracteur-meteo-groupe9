@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-5",
-            "FeelsLikeF": "22",
+            "FeelsLikeC": "-7",
+            "FeelsLikeF": "20",
             "cloudcover": "0",
-            "humidity": "86",
-            "localObsDateTime": "2026-01-05 01:15 AM",
-            "observation_time": "12:15 AM",
+            "humidity": "93",
+            "localObsDateTime": "2026-01-05 03:42 AM",
+            "observation_time": "02:42 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1014",
+            "pressure": "1013",
             "pressureInches": "30",
-            "temp_C": "-3",
-            "temp_F": "27",
+            "temp_C": "-4",
+            "temp_F": "25",
             "uvIndex": "0",
-            "visibility": "6",
-            "visibilityMiles": "3",
-            "weatherCode": "113",
+            "visibility": "10",
+            "visibilityMiles": "6",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Clear"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "WSW",
-            "winddirDegree": "237",
+            "winddir16Point": "SW",
+            "winddirDegree": "226",
             "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
@@ -154,16 +154,16 @@
                     "chanceofsunshine": "16",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "0",
                     "diffRad": "0.0",
-                    "humidity": "72",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1014",
+                    "pressure": "1013",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-1",
-                    "tempF": "30",
+                    "tempC": "-4",
+                    "tempF": "25",
                     "time": "300",
                     "uvIndex": "0",
                     "visibility": "10",
