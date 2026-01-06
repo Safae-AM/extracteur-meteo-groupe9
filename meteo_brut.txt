@@ -2,24 +2,24 @@
     "current_condition": [
         {
             "FeelsLikeC": "-11",
-            "FeelsLikeF": "13",
-            "cloudcover": "0",
-            "humidity": "93",
-            "localObsDateTime": "2026-01-06 07:28 AM",
-            "observation_time": "06:28 AM",
+            "FeelsLikeF": "11",
+            "cloudcover": "50",
+            "humidity": "92",
+            "localObsDateTime": "2026-01-06 08:18 AM",
+            "observation_time": "07:18 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1018",
+            "pressure": "1019",
             "pressureInches": "30",
-            "temp_C": "-7",
-            "temp_F": "20",
+            "temp_C": "-8",
+            "temp_F": "18",
             "uvIndex": "0",
-            "visibility": "5",
-            "visibilityMiles": "3",
+            "visibility": "1",
+            "visibilityMiles": "0",
             "weatherCode": "260",
             "weatherDesc": [
                 {
-                    "value": "Patches of fog, freezing fog"
+                    "value": "Freezing fog"
                 }
             ],
             "weatherIconUrl": [
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "NW",
-            "winddirDegree": "325",
+            "winddir16Point": "NNW",
+            "winddirDegree": "333",
             "windspeedKmph": "7",
             "windspeedMiles": "4"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
