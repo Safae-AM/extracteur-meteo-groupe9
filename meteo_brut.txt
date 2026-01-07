@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-7",
-            "FeelsLikeF": "20",
+            "FeelsLikeC": "-6",
+            "FeelsLikeF": "21",
             "cloudcover": "100",
-            "humidity": "93",
-            "localObsDateTime": "2026-01-07 11:15 AM",
-            "observation_time": "10:15 AM",
+            "humidity": "100",
+            "localObsDateTime": "2026-01-07 12:02 PM",
+            "observation_time": "11:02 AM",
             "precipInches": "0.0",
-            "precipMM": "0.2",
+            "precipMM": "0.1",
             "pressure": "1010",
             "pressureInches": "30",
             "temp_C": "-1",
-            "temp_F": "30",
+            "temp_F": "31",
             "uvIndex": "0",
-            "visibility": "1",
-            "visibilityMiles": "0",
-            "weatherCode": "338",
+            "visibility": "4",
+            "visibilityMiles": "2",
+            "weatherCode": "323",
             "weatherDesc": [
                 {
-                    "value": "Heavy snow, freezing fog"
+                    "value": "Light snow, mist"
                 }
             ],
             "weatherIconUrl": [
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "222",
-            "windspeedKmph": "22",
-            "windspeedMiles": "14"
+            "winddirDegree": "231",
+            "windspeedKmph": "19",
+            "windspeedMiles": "12"
         }
     ],
     "nearest_area": [
@@ -309,22 +309,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "6.6",
-                    "humidity": "97",
+                    "humidity": "100",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "1011",
+                    "pressure": "1010",
                     "pressureInches": "30",
                     "shortRad": "10.7",
-                    "tempC": "1",
-                    "tempF": "34",
+                    "tempC": "-1",
+                    "tempF": "31",
                     "time": "1200",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "visibility": "4",
+                    "visibilityMiles": "2",
+                    "weatherCode": "323",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Patchy light snow"
                         }
                     ],
                     "weatherIconUrl": [
