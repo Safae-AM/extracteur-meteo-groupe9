@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-8",
-            "FeelsLikeF": "18",
+            "FeelsLikeC": "-7",
+            "FeelsLikeF": "20",
             "cloudcover": "100",
-            "humidity": "100",
-            "localObsDateTime": "2026-01-07 10:25 AM",
-            "observation_time": "09:25 AM",
+            "humidity": "93",
+            "localObsDateTime": "2026-01-07 11:15 AM",
+            "observation_time": "10:15 AM",
             "precipInches": "0.0",
             "precipMM": "0.2",
             "pressure": "1010",
             "pressureInches": "30",
-            "temp_C": "-2",
-            "temp_F": "29",
+            "temp_C": "-1",
+            "temp_F": "30",
             "uvIndex": "0",
-            "visibility": "6",
-            "visibilityMiles": "3",
-            "weatherCode": "326",
+            "visibility": "1",
+            "visibilityMiles": "0",
+            "weatherCode": "338",
             "weatherDesc": [
                 {
-                    "value": "Light snow"
+                    "value": "Heavy snow, freezing fog"
                 }
             ],
             "weatherIconUrl": [
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSW",
-            "winddirDegree": "213",
-            "windspeedKmph": "23",
+            "winddir16Point": "SW",
+            "winddirDegree": "222",
+            "windspeedKmph": "22",
             "windspeedMiles": "14"
         }
     ],
