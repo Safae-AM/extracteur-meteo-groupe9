@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "5",
-            "FeelsLikeF": "41",
+            "FeelsLikeC": "6",
+            "FeelsLikeF": "43",
             "cloudcover": "100",
             "humidity": "100",
-            "localObsDateTime": "2026-01-08 06:16 PM",
-            "observation_time": "05:16 PM",
+            "localObsDateTime": "2026-01-08 07:05 PM",
+            "observation_time": "06:05 PM",
             "precipInches": "0.0",
-            "precipMM": "0.1",
-            "pressure": "1001",
+            "precipMM": "0.0",
+            "pressure": "999",
             "pressureInches": "30",
-            "temp_C": "8",
-            "temp_F": "47",
+            "temp_C": "9",
+            "temp_F": "49",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Light rain"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "211",
-            "windspeedKmph": "22",
-            "windspeedMiles": "14"
+            "winddirDegree": "208",
+            "windspeedKmph": "25",
+            "windspeedMiles": "16"
         }
     ],
     "nearest_area": [
@@ -411,10 +411,10 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "11.6",
-                    "humidity": "100",
+                    "humidity": "92",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "1001",
+                    "pressure": "1002",
                     "pressureInches": "30",
                     "shortRad": "19.7",
                     "tempC": "8",
@@ -423,10 +423,10 @@
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "296",
+                    "weatherCode": "176",
                     "weatherDesc": [
                         {
-                            "value": "Light rain"
+                            "value": "Patchy rain nearby"
                         }
                     ],
                     "weatherIconUrl": [
