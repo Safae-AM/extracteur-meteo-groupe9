@@ -5,21 +5,21 @@
             "FeelsLikeF": "41",
             "cloudcover": "100",
             "humidity": "93",
-            "localObsDateTime": "2026-01-08 03:00 PM",
-            "observation_time": "02:00 PM",
+            "localObsDateTime": "2026-01-08 03:49 PM",
+            "observation_time": "02:49 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
-            "pressure": "1005",
+            "pressure": "1004",
             "pressureInches": "30",
             "temp_C": "7",
             "temp_F": "45",
             "uvIndex": "0",
-            "visibility": "10",
-            "visibilityMiles": "6",
+            "visibility": "5",
+            "visibilityMiles": "3",
             "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle"
+                    "value": "Light rain, mist"
                 }
             ],
             "weatherIconUrl": [
@@ -363,15 +363,15 @@
                     "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "1005",
+                    "pressure": "1004",
                     "pressureInches": "30",
                     "shortRad": "43.4",
                     "tempC": "7",
                     "tempF": "45",
                     "time": "1500",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
+                    "visibility": "5",
+                    "visibilityMiles": "3",
                     "weatherCode": "296",
                     "weatherDesc": [
                         {
