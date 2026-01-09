@@ -5,10 +5,10 @@
             "FeelsLikeF": "38",
             "cloudcover": "100",
             "humidity": "71",
-            "localObsDateTime": "2026-01-09 05:43 AM",
-            "observation_time": "04:43 AM",
+            "localObsDateTime": "2026-01-09 06:31 AM",
+            "observation_time": "05:31 AM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.3",
             "pressure": "988",
             "pressureInches": "29",
             "temp_C": "8",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "WSW",
-            "winddirDegree": "238",
-            "windspeedKmph": "44",
-            "windspeedMiles": "27"
+            "winddirDegree": "242",
+            "windspeedKmph": "42",
+            "windspeedMiles": "26"
         }
     ],
     "nearest_area": [
@@ -207,22 +207,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "77",
+                    "humidity": "71",
                     "precipInches": "0.0",
                     "precipMM": "0.3",
-                    "pressure": "991",
+                    "pressure": "988",
                     "pressureInches": "29",
                     "shortRad": "0.0",
-                    "tempC": "7",
-                    "tempF": "44",
+                    "tempC": "8",
+                    "tempF": "47",
                     "time": "600",
                     "uvIndex": "0",
-                    "visibility": "2",
-                    "visibilityMiles": "1",
-                    "weatherCode": "266",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Light drizzle"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
