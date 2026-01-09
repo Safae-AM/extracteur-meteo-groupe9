@@ -5,8 +5,8 @@
             "FeelsLikeF": "35",
             "cloudcover": "100",
             "humidity": "75",
-            "localObsDateTime": "2026-01-09 05:57 PM",
-            "observation_time": "04:57 PM",
+            "localObsDateTime": "2026-01-09 06:46 PM",
+            "observation_time": "05:46 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "998",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "W",
-            "winddirDegree": "264",
+            "winddirDegree": "267",
             "windspeedKmph": "30",
             "windspeedMiles": "19"
         }
@@ -411,22 +411,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "37.6",
-                    "humidity": "77",
+                    "humidity": "75",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "997",
+                    "pressure": "998",
                     "pressureInches": "29",
                     "shortRad": "74.2",
                     "tempC": "6",
-                    "tempF": "42",
+                    "tempF": "43",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
