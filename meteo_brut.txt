@@ -4,11 +4,11 @@
             "FeelsLikeC": "1",
             "FeelsLikeF": "34",
             "cloudcover": "100",
-            "humidity": "70",
-            "localObsDateTime": "2026-01-10 02:22 PM",
-            "observation_time": "01:22 PM",
+            "humidity": "65",
+            "localObsDateTime": "2026-01-10 03:11 PM",
+            "observation_time": "02:11 PM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.1",
             "pressure": "1014",
             "pressureInches": "30",
             "temp_C": "5",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "NW",
-            "winddirDegree": "316",
-            "windspeedKmph": "22",
-            "windspeedMiles": "14"
+            "winddirDegree": "313",
+            "windspeedKmph": "24",
+            "windspeedMiles": "15"
         }
     ],
     "nearest_area": [
@@ -360,22 +360,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "79.7",
-                    "humidity": "68",
+                    "humidity": "65",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "1016",
+                    "pressure": "1014",
                     "pressureInches": "30",
                     "shortRad": "170.2",
                     "tempC": "5",
-                    "tempF": "40",
+                    "tempF": "42",
                     "time": "1500",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
