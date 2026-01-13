@@ -1,12 +1,12 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "7",
-            "FeelsLikeF": "45",
-            "cloudcover": "75",
+            "FeelsLikeC": "8",
+            "FeelsLikeF": "46",
+            "cloudcover": "0",
             "humidity": "76",
-            "localObsDateTime": "2026-01-13 09:20 AM",
-            "observation_time": "08:20 AM",
+            "localObsDateTime": "2026-01-13 10:09 AM",
+            "observation_time": "09:09 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1011",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "S",
-            "winddirDegree": "176",
-            "windspeedKmph": "13",
-            "windspeedMiles": "8"
+            "winddirDegree": "174",
+            "windspeedKmph": "11",
+            "windspeedMiles": "7"
         }
     ],
     "nearest_area": [
@@ -256,24 +256,24 @@
                     "chanceofsunshine": "94",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "75",
+                    "cloudcover": "19",
                     "diffRad": "0.1",
-                    "humidity": "76",
+                    "humidity": "84",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1011",
                     "pressureInches": "30",
                     "shortRad": "0.2",
-                    "tempC": "9",
-                    "tempF": "49",
+                    "tempC": "7",
+                    "tempF": "45",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "116",
+                    "weatherCode": "113",
                     "weatherDesc": [
                         {
-                            "value": "Partly cloudy"
+                            "value": "Sunny"
                         }
                     ],
                     "weatherIconUrl": [
