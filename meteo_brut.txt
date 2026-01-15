@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "11",
-            "FeelsLikeF": "53",
-            "cloudcover": "75",
-            "humidity": "62",
-            "localObsDateTime": "2026-01-15 05:41 PM",
-            "observation_time": "04:41 PM",
+            "FeelsLikeC": "10",
+            "FeelsLikeF": "49",
+            "cloudcover": "0",
+            "humidity": "67",
+            "localObsDateTime": "2026-01-15 06:30 PM",
+            "observation_time": "05:30 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1005",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
+            "temp_C": "12",
+            "temp_F": "54",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "176",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Patchy rain nearby"
                 }
             ],
             "weatherIconUrl": [
@@ -29,7 +29,7 @@
             ],
             "winddir16Point": "S",
             "winddirDegree": "177",
-            "windspeedKmph": "22",
+            "windspeedKmph": "23",
             "windspeedMiles": "14"
         }
     ],
@@ -409,7 +409,7 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "0",
                     "diffRad": "45.3",
                     "humidity": "67",
                     "precipInches": "0.0",
@@ -417,8 +417,8 @@
                     "pressure": "1005",
                     "pressureInches": "30",
                     "shortRad": "87.1",
-                    "tempC": "11",
-                    "tempF": "52",
+                    "tempC": "12",
+                    "tempF": "54",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
