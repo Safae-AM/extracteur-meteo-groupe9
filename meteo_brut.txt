@@ -2,13 +2,13 @@
     "current_condition": [
         {
             "FeelsLikeC": "10",
-            "FeelsLikeF": "49",
-            "cloudcover": "0",
-            "humidity": "67",
-            "localObsDateTime": "2026-01-15 06:30 PM",
-            "observation_time": "05:30 PM",
+            "FeelsLikeF": "50",
+            "cloudcover": "75",
+            "humidity": "71",
+            "localObsDateTime": "2026-01-15 07:18 PM",
+            "observation_time": "06:18 PM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.1",
             "pressure": "1005",
             "pressureInches": "30",
             "temp_C": "12",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "176",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Patchy rain nearby"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "S",
-            "winddirDegree": "177",
-            "windspeedKmph": "23",
-            "windspeedMiles": "14"
+            "winddirDegree": "189",
+            "windspeedKmph": "26",
+            "windspeedMiles": "16"
         }
     ],
     "nearest_area": [
@@ -409,7 +409,7 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "100",
                     "diffRad": "45.3",
                     "humidity": "67",
                     "precipInches": "0.0",
@@ -417,8 +417,8 @@
                     "pressure": "1005",
                     "pressureInches": "30",
                     "shortRad": "87.1",
-                    "tempC": "12",
-                    "tempF": "54",
+                    "tempC": "11",
+                    "tempF": "52",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
