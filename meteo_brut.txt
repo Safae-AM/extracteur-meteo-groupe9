@@ -5,8 +5,8 @@
             "FeelsLikeF": "45",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2026-01-17 02:21 AM",
-            "observation_time": "01:21 AM",
+            "localObsDateTime": "2026-01-17 03:59 AM",
+            "observation_time": "02:59 AM",
             "precipInches": "0.0",
             "precipMM": "0.2",
             "pressure": "1013",
@@ -14,8 +14,8 @@
             "temp_C": "8",
             "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "10",
-            "visibilityMiles": "6",
+            "visibility": "7",
+            "visibilityMiles": "4",
             "weatherCode": "143",
             "weatherDesc": [
                 {
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "SSE",
-            "winddirDegree": "157",
-            "windspeedKmph": "7",
-            "windspeedMiles": "4"
+            "winddirDegree": "164",
+            "windspeedKmph": "8",
+            "windspeedMiles": "5"
         }
     ],
     "nearest_area": [
@@ -154,24 +154,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "0.0",
-                    "humidity": "92",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
-                    "pressure": "1012",
+                    "pressure": "1013",
                     "pressureInches": "30",
                     "shortRad": "0.0",
                     "tempC": "8",
                     "tempF": "47",
                     "time": "300",
                     "uvIndex": "0",
-                    "visibility": "2",
-                    "visibilityMiles": "1",
-                    "weatherCode": "266",
+                    "visibility": "7",
+                    "visibilityMiles": "4",
+                    "weatherCode": "143",
                     "weatherDesc": [
                         {
-                            "value": "Light drizzle"
+                            "value": "Mist"
                         }
                     ],
                     "weatherIconUrl": [
