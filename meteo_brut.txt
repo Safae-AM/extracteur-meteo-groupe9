@@ -1,4 +1,38 @@
 {
+    "current_condition": [
+        {
+            "FeelsLikeC": "3",
+            "FeelsLikeF": "38",
+            "cloudcover": "75",
+            "humidity": "93",
+            "localObsDateTime": "2026-01-20 07:07 AM",
+            "observation_time": "06:07 AM",
+            "precipInches": "0.0",
+            "precipMM": "0.0",
+            "pressure": "1016",
+            "pressureInches": "30",
+            "temp_C": "5",
+            "temp_F": "41",
+            "uvIndex": "0",
+            "visibility": "10",
+            "visibilityMiles": "6",
+            "weatherCode": "248",
+            "weatherDesc": [
+                {
+                    "value": "Fog"
+                }
+            ],
+            "weatherIconUrl": [
+                {
+                    "value": ""
+                }
+            ],
+            "winddir16Point": "ESE",
+            "winddirDegree": "102",
+            "windspeedKmph": "7",
+            "windspeedMiles": "4"
+        }
+    ],
     "nearest_area": [
         {
             "areaName": [
