@@ -5,8 +5,8 @@
             "FeelsLikeF": "48",
             "cloudcover": "0",
             "humidity": "71",
-            "localObsDateTime": "2026-01-21 07:52 PM",
-            "observation_time": "06:52 PM",
+            "localObsDateTime": "2026-01-21 08:41 PM",
+            "observation_time": "07:41 PM",
             "precipInches": "0.0",
             "precipMM": "0.2",
             "pressure": "993",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSE",
-            "winddirDegree": "160",
+            "winddirDegree": "158",
             "windspeedKmph": "17",
             "windspeedMiles": "11"
         }
