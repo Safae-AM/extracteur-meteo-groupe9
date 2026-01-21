@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "10",
-            "FeelsLikeF": "51",
+            "FeelsLikeC": "9",
+            "FeelsLikeF": "48",
             "cloudcover": "0",
-            "humidity": "62",
-            "localObsDateTime": "2026-01-21 07:03 PM",
-            "observation_time": "06:03 PM",
+            "humidity": "71",
+            "localObsDateTime": "2026-01-21 07:52 PM",
+            "observation_time": "06:52 PM",
             "precipInches": "0.0",
             "precipMM": "0.2",
             "pressure": "993",
             "pressureInches": "29",
-            "temp_C": "12",
-            "temp_F": "54",
+            "temp_C": "11",
+            "temp_F": "52",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "266",
+            "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle"
+                    "value": "Light drizzle and rain"
                 }
             ],
             "weatherIconUrl": [
