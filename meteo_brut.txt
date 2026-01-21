@@ -4,12 +4,12 @@
             "FeelsLikeC": "7",
             "FeelsLikeF": "44",
             "cloudcover": "0",
-            "humidity": "81",
-            "localObsDateTime": "2026-01-21 06:48 AM",
-            "observation_time": "05:48 AM",
+            "humidity": "76",
+            "localObsDateTime": "2026-01-21 07:37 AM",
+            "observation_time": "06:37 AM",
             "precipInches": "0.0",
-            "precipMM": "0.1",
-            "pressure": "1003",
+            "precipMM": "0.0",
+            "pressure": "1002",
             "pressureInches": "30",
             "temp_C": "9",
             "temp_F": "49",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "S",
-            "winddirDegree": "178",
-            "windspeedKmph": "21",
-            "windspeedMiles": "13"
+            "winddirDegree": "174",
+            "windspeedKmph": "19",
+            "windspeedMiles": "12"
         }
     ],
     "nearest_area": [
@@ -205,9 +205,9 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "81",
+                    "humidity": "77",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
                     "pressure": "1003",
