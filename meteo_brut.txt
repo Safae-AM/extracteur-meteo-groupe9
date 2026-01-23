@@ -4,11 +4,11 @@
             "FeelsLikeC": "6",
             "FeelsLikeF": "43",
             "cloudcover": "100",
-            "humidity": "76",
-            "localObsDateTime": "2026-01-23 03:57 PM",
-            "observation_time": "02:57 PM",
+            "humidity": "71",
+            "localObsDateTime": "2026-01-23 04:46 PM",
+            "observation_time": "03:46 PM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.1",
             "pressure": "990",
             "pressureInches": "29",
             "temp_C": "9",
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "S",
-            "winddirDegree": "186",
-            "windspeedKmph": "20",
+            "winddir16Point": "SSW",
+            "winddirDegree": "191",
+            "windspeedKmph": "22",
             "windspeedMiles": "13"
         }
     ],
@@ -358,24 +358,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "59",
                     "diffRad": "70.9",
-                    "humidity": "76",
+                    "humidity": "67",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "990",
                     "pressureInches": "29",
                     "shortRad": "221.9",
-                    "tempC": "9",
-                    "tempF": "48",
+                    "tempC": "10",
+                    "tempF": "49",
                     "time": "1500",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "weatherCode": "176",
                     "weatherDesc": [
                         {
-                            "value": "Overcast"
+                            "value": "Patchy rain nearby"
                         }
                     ],
                     "weatherIconUrl": [
