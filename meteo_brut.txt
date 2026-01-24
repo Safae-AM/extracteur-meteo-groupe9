@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "3",
-            "FeelsLikeF": "37",
+            "FeelsLikeC": "2",
+            "FeelsLikeF": "35",
             "cloudcover": "0",
-            "humidity": "81",
-            "localObsDateTime": "2026-01-24 09:22 PM",
-            "observation_time": "08:22 PM",
+            "humidity": "87",
+            "localObsDateTime": "2026-01-24 10:11 PM",
+            "observation_time": "09:11 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "998",
             "pressureInches": "29",
-            "temp_C": "5",
-            "temp_F": "41",
+            "temp_C": "4",
+            "temp_F": "40",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "119",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Cloudy"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -27,8 +27,8 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SE",
-            "winddirDegree": "143",
+            "winddir16Point": "SSE",
+            "winddirDegree": "151",
             "windspeedKmph": "10",
             "windspeedMiles": "6"
         }
@@ -460,16 +460,16 @@
                     "chanceofsunshine": "14",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "79",
                     "diffRad": "11.4",
-                    "humidity": "81",
+                    "humidity": "76",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "998",
+                    "pressure": "999",
                     "pressureInches": "29",
                     "shortRad": "28.5",
-                    "tempC": "5",
-                    "tempF": "41",
+                    "tempC": "6",
+                    "tempF": "42",
                     "time": "2100",
                     "uvIndex": "0",
                     "visibility": "10",
@@ -925,9 +925,9 @@
             ],
             "maxtempC": "8",
             "maxtempF": "47",
-            "mintempC": "4",
+            "mintempC": "5",
             "mintempF": "40",
-            "sunHour": "7.0",
+            "sunHour": "7.5",
             "totalSnow_cm": "0.0",
             "uvIndex": "0"
         },
@@ -942,8 +942,8 @@
                     "sunset": "05:39 PM"
                 }
             ],
-            "avgtempC": "7",
-            "avgtempF": "44",
+            "avgtempC": "6",
+            "avgtempF": "43",
             "date": "2026-01-26",
             "hourly": [
                 {
@@ -1356,10 +1356,10 @@
                 }
             ],
             "maxtempC": "9",
-            "maxtempF": "49",
-            "mintempC": "6",
-            "mintempF": "42",
-            "sunHour": "8.5",
+            "maxtempF": "48",
+            "mintempC": "4",
+            "mintempF": "39",
+            "sunHour": "8.8",
             "totalSnow_cm": "0.0",
             "uvIndex": "0"
         }
