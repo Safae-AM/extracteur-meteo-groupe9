@@ -1,14 +1,14 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "4",
-            "FeelsLikeF": "40",
-            "cloudcover": "100",
+            "FeelsLikeC": "5",
+            "FeelsLikeF": "41",
+            "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2026-01-25 05:47 PM",
-            "observation_time": "04:47 PM",
+            "localObsDateTime": "2026-01-25 06:36 PM",
+            "observation_time": "05:36 PM",
             "precipInches": "0.0",
-            "precipMM": "0.1",
+            "precipMM": "0.2",
             "pressure": "992",
             "pressureInches": "29",
             "temp_C": "7",
@@ -29,8 +29,8 @@
             ],
             "winddir16Point": "SE",
             "winddirDegree": "139",
-            "windspeedKmph": "14",
-            "windspeedMiles": "9"
+            "windspeedKmph": "12",
+            "windspeedMiles": "7"
         }
     ],
     "nearest_area": [
@@ -409,9 +409,9 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "52.2",
-                    "humidity": "85",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
                     "pressure": "992",
@@ -421,12 +421,12 @@
                     "tempF": "45",
                     "time": "1800",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "353",
+                    "visibility": "7",
+                    "visibilityMiles": "4",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Light rain shower"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
