@@ -1,19 +1,19 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "0",
-            "FeelsLikeF": "33",
+            "FeelsLikeC": "1",
+            "FeelsLikeF": "35",
             "cloudcover": "100",
             "humidity": "100",
-            "localObsDateTime": "2026-01-29 03:42 PM",
-            "observation_time": "02:42 PM",
+            "localObsDateTime": "2026-01-29 04:31 PM",
+            "observation_time": "03:31 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "998",
             "pressureInches": "29",
-            "temp_C": "3",
-            "temp_F": "38",
-            "uvIndex": "1",
+            "temp_C": "4",
+            "temp_F": "40",
+            "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
             "weatherCode": "122",
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSE",
-            "winddirDegree": "163",
+            "winddirDegree": "156",
             "windspeedKmph": "11",
             "windspeedMiles": "7"
         }
@@ -358,24 +358,24 @@
                     "chanceofsunshine": "88",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "1",
                     "diffRad": "61.3",
-                    "humidity": "100",
+                    "humidity": "62",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "998",
                     "pressureInches": "29",
                     "shortRad": "279.4",
-                    "tempC": "3",
-                    "tempF": "38",
+                    "tempC": "9",
+                    "tempF": "47",
                     "time": "1500",
                     "uvIndex": "1",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "weatherCode": "113",
                     "weatherDesc": [
                         {
-                            "value": "Overcast"
+                            "value": "Sunny"
                         }
                     ],
                     "weatherIconUrl": [
