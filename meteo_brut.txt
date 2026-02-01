@@ -5,8 +5,8 @@
             "FeelsLikeF": "43",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2026-02-01 10:05 PM",
-            "observation_time": "09:05 PM",
+            "localObsDateTime": "2026-02-01 10:55 PM",
+            "observation_time": "09:55 PM",
             "precipInches": "0.0",
             "precipMM": "0.3",
             "pressure": "999",
@@ -19,7 +19,7 @@
             "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle and rain"
+                    "value": "Light rain, light drizzle and rain"
                 }
             ],
             "weatherIconUrl": [
