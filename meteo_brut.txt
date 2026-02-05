@@ -3,10 +3,10 @@
         {
             "FeelsLikeC": "7",
             "FeelsLikeF": "44",
-            "cloudcover": "100",
+            "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2026-02-05 10:13 AM",
-            "observation_time": "09:13 AM",
+            "localObsDateTime": "2026-02-05 11:02 AM",
+            "observation_time": "10:02 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "985",
@@ -19,7 +19,7 @@
             "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light drizzle and rain"
+                    "value": "Light rain, light drizzle and rain"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "S",
-            "winddirDegree": "185",
-            "windspeedKmph": "17",
+            "winddirDegree": "189",
+            "windspeedKmph": "18",
             "windspeedMiles": "11"
         }
     ],
