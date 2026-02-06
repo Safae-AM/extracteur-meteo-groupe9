@@ -3,13 +3,13 @@
         {
             "FeelsLikeC": "10",
             "FeelsLikeF": "50",
-            "cloudcover": "100",
-            "humidity": "88",
-            "localObsDateTime": "2026-02-06 01:10 PM",
-            "observation_time": "12:10 PM",
+            "cloudcover": "75",
+            "humidity": "82",
+            "localObsDateTime": "2026-02-06 01:59 PM",
+            "observation_time": "12:59 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
-            "pressure": "989",
+            "pressure": "990",
             "pressureInches": "29",
             "temp_C": "12",
             "temp_F": "54",
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Saint-Merri"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
-            "longitude": "2.333",
-            "population": "2110694",
+            "latitude": "48.850",
+            "longitude": "2.350",
+            "population": "0",
             "region": [
                 {
                     "value": "Ile-de-France"
