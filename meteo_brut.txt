@@ -2,14 +2,14 @@
     "current_condition": [
         {
             "FeelsLikeC": "9",
-            "FeelsLikeF": "49",
+            "FeelsLikeF": "48",
             "cloudcover": "50",
             "humidity": "82",
-            "localObsDateTime": "2026-02-06 05:15 PM",
-            "observation_time": "04:15 PM",
+            "localObsDateTime": "2026-02-06 06:04 PM",
+            "observation_time": "05:04 PM",
             "precipInches": "0.0",
-            "precipMM": "0.3",
-            "pressure": "992",
+            "precipMM": "0.1",
+            "pressure": "993",
             "pressureInches": "29",
             "temp_C": "11",
             "temp_F": "52",
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "SW",
-            "winddirDegree": "220",
+            "winddirDegree": "226",
             "windspeedKmph": "17",
-            "windspeedMiles": "10"
+            "windspeedMiles": "11"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Gentilly"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.817",
+            "longitude": "2.333",
+            "population": "15639",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -409,24 +409,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "47",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "50",
                     "diffRad": "0.0",
-                    "humidity": "77",
+                    "humidity": "82",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "994",
+                    "pressure": "993",
                     "pressureInches": "29",
                     "shortRad": "0.0",
                     "tempC": "11",
                     "tempF": "52",
                     "time": "1800",
                     "uvIndex": "0",
-                    "visibility": "9",
-                    "visibilityMiles": "5",
-                    "weatherCode": "200",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Thundery outbreaks in nearby"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
