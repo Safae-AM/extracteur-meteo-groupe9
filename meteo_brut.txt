@@ -3,10 +3,10 @@
         {
             "FeelsLikeC": "12",
             "FeelsLikeF": "53",
-            "cloudcover": "0",
+            "cloudcover": "50",
             "humidity": "62",
-            "localObsDateTime": "2026-02-07 04:07 PM",
-            "observation_time": "03:07 PM",
+            "localObsDateTime": "2026-02-07 04:56 PM",
+            "observation_time": "03:56 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1002",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "176",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Patchy rain nearby"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
