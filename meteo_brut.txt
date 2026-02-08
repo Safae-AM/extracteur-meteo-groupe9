@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "3",
-            "FeelsLikeF": "38",
+            "FeelsLikeC": "6",
+            "FeelsLikeF": "42",
             "cloudcover": "0",
-            "humidity": "93",
-            "localObsDateTime": "2026-02-08 09:16 AM",
-            "observation_time": "08:16 AM",
+            "humidity": "87",
+            "localObsDateTime": "2026-02-08 10:05 AM",
+            "observation_time": "09:05 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1005",
+            "pressure": "1006",
             "pressureInches": "30",
-            "temp_C": "4",
-            "temp_F": "40",
+            "temp_C": "6",
+            "temp_F": "43",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "ESE",
-            "winddirDegree": "123",
-            "windspeedKmph": "5",
+            "winddir16Point": "SE",
+            "winddirDegree": "124",
+            "windspeedKmph": "4",
             "windspeedMiles": "3"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -256,16 +256,16 @@
                     "chanceofsunshine": "85",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "0",
+                    "cloudcover": "11",
                     "diffRad": "4.3",
-                    "humidity": "93",
+                    "humidity": "86",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1005",
+                    "pressure": "1008",
                     "pressureInches": "30",
                     "shortRad": "10.1",
-                    "tempC": "4",
-                    "tempF": "40",
+                    "tempC": "6",
+                    "tempF": "42",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
