@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "13",
-            "FeelsLikeF": "55",
-            "cloudcover": "75",
-            "humidity": "62",
-            "localObsDateTime": "2026-02-08 05:26 PM",
-            "observation_time": "04:26 PM",
+            "FeelsLikeC": "11",
+            "FeelsLikeF": "52",
+            "cloudcover": "50",
+            "humidity": "71",
+            "localObsDateTime": "2026-02-08 06:15 PM",
+            "observation_time": "05:15 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1005",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
+            "temp_C": "11",
+            "temp_F": "52",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "ESE",
-            "winddirDegree": "107",
-            "windspeedKmph": "7",
+            "winddirDegree": "105",
+            "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Le Kremlin-Bicetre"
+                    "value": "Saint-Merri"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
-            "longitude": "2.367",
-            "population": "27194",
+            "latitude": "48.850",
+            "longitude": "2.350",
+            "population": "0",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -409,24 +409,24 @@
                     "chanceofsunshine": "94",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "13",
+                    "cloudcover": "50",
                     "diffRad": "72.8",
-                    "humidity": "68",
+                    "humidity": "71",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1006",
+                    "pressure": "1005",
                     "pressureInches": "30",
                     "shortRad": "224.5",
-                    "tempC": "10",
-                    "tempF": "50",
+                    "tempC": "11",
+                    "tempF": "52",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "113",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Clear "
+                            "value": "Partly cloudy"
                         }
                     ],
                     "weatherIconUrl": [
