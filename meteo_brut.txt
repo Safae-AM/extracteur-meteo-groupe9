@@ -5,10 +5,10 @@
             "FeelsLikeF": "46",
             "cloudcover": "75",
             "humidity": "93",
-            "localObsDateTime": "2026-02-13 02:13 PM",
-            "observation_time": "01:13 PM",
+            "localObsDateTime": "2026-02-13 03:01 PM",
+            "observation_time": "02:01 PM",
             "precipInches": "0.0",
-            "precipMM": "0.9",
+            "precipMM": "0.5",
             "pressure": "990",
             "pressureInches": "29",
             "temp_C": "9",
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "E",
-            "winddirDegree": "89",
-            "windspeedKmph": "10",
+            "winddir16Point": "ENE",
+            "winddirDegree": "58",
+            "windspeedKmph": "9",
             "windspeedMiles": "6"
         }
     ],
@@ -358,24 +358,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "134.6",
-                    "humidity": "88",
+                    "humidity": "93",
                     "precipInches": "0.0",
                     "precipMM": "0.5",
-                    "pressure": "989",
+                    "pressure": "990",
                     "pressureInches": "29",
                     "shortRad": "307.8",
-                    "tempC": "7",
-                    "tempF": "45",
+                    "tempC": "9",
+                    "tempF": "49",
                     "time": "1500",
                     "uvIndex": "0",
-                    "visibility": "2",
-                    "visibilityMiles": "1",
-                    "weatherCode": "266",
+                    "visibility": "7",
+                    "visibilityMiles": "4",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Light drizzle"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
