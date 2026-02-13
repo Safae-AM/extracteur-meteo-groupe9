@@ -5,21 +5,21 @@
             "FeelsLikeF": "43",
             "cloudcover": "100",
             "humidity": "93",
-            "localObsDateTime": "2026-02-13 10:57 AM",
-            "observation_time": "09:57 AM",
+            "localObsDateTime": "2026-02-13 11:46 AM",
+            "observation_time": "10:46 AM",
             "precipInches": "0.0",
-            "precipMM": "0.5",
+            "precipMM": "0.4",
             "pressure": "991",
             "pressureInches": "29",
             "temp_C": "8",
             "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "10",
-            "visibilityMiles": "6",
-            "weatherCode": "122",
+            "visibility": "7",
+            "visibilityMiles": "4",
+            "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Overcast"
+                    "value": "Light rain"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SSE",
-            "winddirDegree": "163",
+            "winddirDegree": "154",
             "windspeedKmph": "12",
             "windspeedMiles": "7"
         }
