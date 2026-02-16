@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "7",
-            "FeelsLikeF": "45",
-            "cloudcover": "50",
-            "humidity": "71",
-            "localObsDateTime": "2026-02-16 02:54 PM",
-            "observation_time": "01:54 PM",
+            "FeelsLikeC": "8",
+            "FeelsLikeF": "47",
+            "cloudcover": "100",
+            "humidity": "54",
+            "localObsDateTime": "2026-02-16 03:43 PM",
+            "observation_time": "02:43 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
-            "pressure": "1002",
+            "pressure": "1001",
             "pressureInches": "30",
-            "temp_C": "10",
-            "temp_F": "50",
+            "temp_C": "11",
+            "temp_F": "52",
             "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "W",
-            "winddirDegree": "274",
-            "windspeedKmph": "25",
+            "winddirDegree": "273",
+            "windspeedKmph": "26",
             "windspeedMiles": "16"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -360,22 +360,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "116.8",
-                    "humidity": "61",
+                    "humidity": "54",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "1004",
+                    "pressure": "1001",
                     "pressureInches": "30",
                     "shortRad": "423.0",
-                    "tempC": "10",
-                    "tempF": "49",
+                    "tempC": "11",
+                    "tempF": "52",
                     "time": "1500",
                     "uvIndex": "1",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Overcast"
                         }
                     ],
                     "weatherIconUrl": [
