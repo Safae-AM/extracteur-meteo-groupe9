@@ -3,16 +3,16 @@
         {
             "FeelsLikeC": "7",
             "FeelsLikeF": "45",
-            "cloudcover": "50",
+            "cloudcover": "75",
             "humidity": "58",
-            "localObsDateTime": "2026-02-16 04:32 PM",
-            "observation_time": "03:32 PM",
+            "localObsDateTime": "2026-02-16 05:21 PM",
+            "observation_time": "04:21 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "1002",
             "pressureInches": "30",
             "temp_C": "10",
-            "temp_F": "51",
+            "temp_F": "50",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "W",
-            "winddirDegree": "276",
-            "windspeedKmph": "26",
-            "windspeedMiles": "16"
+            "winddirDegree": "275",
+            "windspeedKmph": "24",
+            "windspeedMiles": "15"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
