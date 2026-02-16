@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "6",
-            "FeelsLikeF": "43",
-            "cloudcover": "75",
+            "FeelsLikeC": "7",
+            "FeelsLikeF": "45",
+            "cloudcover": "50",
             "humidity": "71",
-            "localObsDateTime": "2026-02-16 02:05 PM",
-            "observation_time": "01:05 PM",
+            "localObsDateTime": "2026-02-16 02:54 PM",
+            "observation_time": "01:54 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
-            "pressure": "1001",
+            "pressure": "1002",
             "pressureInches": "30",
-            "temp_C": "9",
-            "temp_F": "49",
+            "temp_C": "10",
+            "temp_F": "50",
             "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Light rain"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
