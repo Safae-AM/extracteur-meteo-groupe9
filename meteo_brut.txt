@@ -1,21 +1,21 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "4",
-            "FeelsLikeF": "39",
+            "FeelsLikeC": "5",
+            "FeelsLikeF": "40",
             "cloudcover": "100",
             "humidity": "100",
-            "localObsDateTime": "2026-02-18 11:49 AM",
-            "observation_time": "10:49 AM",
+            "localObsDateTime": "2026-02-18 12:38 PM",
+            "observation_time": "11:38 AM",
             "precipInches": "0.0",
             "precipMM": "0.1",
-            "pressure": "1006",
+            "pressure": "1005",
             "pressureInches": "30",
-            "temp_C": "4",
-            "temp_F": "40",
+            "temp_C": "5",
+            "temp_F": "41",
             "uvIndex": "0",
-            "visibility": "9",
-            "visibilityMiles": "5",
+            "visibility": "5",
+            "visibilityMiles": "2",
             "weatherCode": "296",
             "weatherDesc": [
                 {
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "W",
-            "winddirDegree": "260",
+            "winddirDegree": "273",
             "windspeedKmph": "4",
             "windspeedMiles": "2"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -309,22 +309,22 @@
                     "chanceofwindy": "0",
                     "cloudcover": "100",
                     "diffRad": "17.9",
-                    "humidity": "88",
+                    "humidity": "100",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
-                    "pressure": "1003",
+                    "pressure": "1005",
                     "pressureInches": "30",
                     "shortRad": "30.4",
-                    "tempC": "9",
-                    "tempF": "48",
+                    "tempC": "5",
+                    "tempF": "41",
                     "time": "1200",
                     "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "visibility": "5",
+                    "visibilityMiles": "2",
+                    "weatherCode": "296",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Light rain"
                         }
                     ],
                     "weatherIconUrl": [
