@@ -2,11 +2,11 @@
     "current_condition": [
         {
             "FeelsLikeC": "4",
-            "FeelsLikeF": "39",
-            "cloudcover": "75",
-            "humidity": "93",
-            "localObsDateTime": "2026-02-18 10:11 AM",
-            "observation_time": "09:11 AM",
+            "FeelsLikeF": "38",
+            "cloudcover": "100",
+            "humidity": "100",
+            "localObsDateTime": "2026-02-18 10:59 AM",
+            "observation_time": "09:59 AM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "1006",
@@ -14,8 +14,8 @@
             "temp_C": "4",
             "temp_F": "39",
             "uvIndex": "0",
-            "visibility": "2",
-            "visibilityMiles": "1",
+            "visibility": "4",
+            "visibilityMiles": "2",
             "weatherCode": "266",
             "weatherDesc": [
                 {
