@@ -1,15 +1,15 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "7",
-            "FeelsLikeF": "44",
+            "FeelsLikeC": "6",
+            "FeelsLikeF": "43",
             "cloudcover": "75",
             "humidity": "87",
-            "localObsDateTime": "2026-02-19 06:51 PM",
-            "observation_time": "05:51 PM",
+            "localObsDateTime": "2026-02-19 07:40 PM",
+            "observation_time": "06:40 PM",
             "precipInches": "0.0",
-            "precipMM": "0.2",
-            "pressure": "1005",
+            "precipMM": "0.1",
+            "pressure": "1006",
             "pressureInches": "30",
             "temp_C": "9",
             "temp_F": "48",
@@ -28,9 +28,9 @@
                 }
             ],
             "winddir16Point": "NW",
-            "winddirDegree": "315",
-            "windspeedKmph": "17",
-            "windspeedMiles": "11"
+            "winddirDegree": "312",
+            "windspeedKmph": "19",
+            "windspeedMiles": "12"
         }
     ],
     "nearest_area": [
@@ -409,24 +409,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "75",
+                    "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "87",
+                    "humidity": "85",
                     "precipInches": "0.0",
                     "precipMM": "0.2",
-                    "pressure": "1005",
+                    "pressure": "1004",
                     "pressureInches": "30",
                     "shortRad": "0.0",
                     "tempC": "9",
                     "tempF": "48",
                     "time": "1800",
                     "uvIndex": "0",
-                    "visibility": "8",
-                    "visibilityMiles": "4",
-                    "weatherCode": "116",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
                     "weatherDesc": [
                         {
-                            "value": "Partly cloudy"
+                            "value": "Light rain shower"
                         }
                     ],
                     "weatherIconUrl": [
