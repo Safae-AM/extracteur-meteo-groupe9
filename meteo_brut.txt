@@ -2,13 +2,13 @@
     "current_condition": [
         {
             "FeelsLikeC": "6",
-            "FeelsLikeF": "43",
+            "FeelsLikeF": "44",
             "cloudcover": "75",
-            "humidity": "100",
-            "localObsDateTime": "2026-02-19 06:36 AM",
-            "observation_time": "05:36 AM",
+            "humidity": "93",
+            "localObsDateTime": "2026-02-19 08:14 AM",
+            "observation_time": "07:14 AM",
             "precipInches": "0.0",
-            "precipMM": "0.1",
+            "precipMM": "0.3",
             "pressure": "991",
             "pressureInches": "29",
             "temp_C": "8",
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "S",
-            "winddirDegree": "187",
-            "windspeedKmph": "13",
-            "windspeedMiles": "8"
+            "winddir16Point": "SSW",
+            "winddirDegree": "208",
+            "windspeedKmph": "11",
+            "windspeedMiles": "7"
         }
     ],
     "nearest_area": [
@@ -205,24 +205,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "75",
+                    "cloudcover": "100",
                     "diffRad": "0.0",
-                    "humidity": "100",
+                    "humidity": "88",
                     "precipInches": "0.0",
                     "precipMM": "0.1",
                     "pressure": "991",
                     "pressureInches": "29",
                     "shortRad": "0.0",
                     "tempC": "8",
-                    "tempF": "47",
+                    "tempF": "46",
                     "time": "600",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "302",
+                    "weatherCode": "176",
                     "weatherDesc": [
                         {
-                            "value": "Moderate rain"
+                            "value": "Patchy rain nearby"
                         }
                     ],
                     "weatherIconUrl": [
