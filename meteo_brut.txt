@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "7",
-            "FeelsLikeF": "44",
-            "cloudcover": "50",
-            "humidity": "93",
-            "localObsDateTime": "2026-02-19 10:40 AM",
-            "observation_time": "09:40 AM",
+            "FeelsLikeC": "6",
+            "FeelsLikeF": "43",
+            "cloudcover": "100",
+            "humidity": "100",
+            "localObsDateTime": "2026-02-19 11:29 AM",
+            "observation_time": "10:29 AM",
             "precipInches": "0.0",
-            "precipMM": "0.7",
-            "pressure": "993",
+            "precipMM": "0.3",
+            "pressure": "994",
             "pressureInches": "29",
-            "temp_C": "9",
-            "temp_F": "48",
+            "temp_C": "8",
+            "temp_F": "47",
             "uvIndex": "0",
-            "visibility": "8",
-            "visibilityMiles": "4",
+            "visibility": "6",
+            "visibilityMiles": "3",
             "weatherCode": "296",
             "weatherDesc": [
                 {
-                    "value": "Light rain shower"
+                    "value": "Light drizzle"
                 }
             ],
             "weatherIconUrl": [
@@ -27,17 +27,17 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "WSW",
-            "winddirDegree": "241",
-            "windspeedKmph": "15",
-            "windspeedMiles": "9"
+            "winddir16Point": "W",
+            "winddirDegree": "261",
+            "windspeedKmph": "13",
+            "windspeedMiles": "8"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
