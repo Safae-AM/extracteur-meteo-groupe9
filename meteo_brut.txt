@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "8",
-            "FeelsLikeF": "47",
+            "FeelsLikeC": "9",
+            "FeelsLikeF": "49",
             "cloudcover": "75",
-            "humidity": "76",
-            "localObsDateTime": "2026-02-20 12:49 PM",
-            "observation_time": "11:49 AM",
+            "humidity": "66",
+            "localObsDateTime": "2026-02-20 03:15 PM",
+            "observation_time": "02:15 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1024",
+            "pressure": "1023",
             "pressureInches": "30",
-            "temp_C": "10",
-            "temp_F": "50",
+            "temp_C": "11",
+            "temp_F": "52",
             "uvIndex": "1",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -27,17 +27,17 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "W",
-            "winddirDegree": "259",
-            "windspeedKmph": "14",
-            "windspeedMiles": "9"
+            "winddir16Point": "WSW",
+            "winddirDegree": "244",
+            "windspeedKmph": "17",
+            "windspeedMiles": "10"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Saint-Merri"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
-            "longitude": "2.333",
-            "population": "15639",
+            "latitude": "48.850",
+            "longitude": "2.350",
+            "population": "0",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -307,24 +307,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "75",
+                    "cloudcover": "80",
                     "diffRad": "0.0",
-                    "humidity": "76",
+                    "humidity": "74",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1024",
+                    "pressure": "1025",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "10",
-                    "tempF": "50",
+                    "tempC": "8",
+                    "tempF": "47",
                     "time": "1200",
                     "uvIndex": "1",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "116",
+                    "weatherCode": "176",
                     "weatherDesc": [
                         {
-                            "value": "Partly cloudy"
+                            "value": "Patchy rain nearby"
                         }
                     ],
                     "weatherIconUrl": [
@@ -358,24 +358,24 @@
                     "chanceofsunshine": "0",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "75",
                     "diffRad": "0.0",
-                    "humidity": "63",
+                    "humidity": "66",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1024",
+                    "pressure": "1023",
                     "pressureInches": "30",
                     "shortRad": "0.0",
                     "tempC": "11",
-                    "tempF": "51",
+                    "tempF": "52",
                     "time": "1500",
                     "uvIndex": "1",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "176",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Patchy rain nearby"
+                            "value": "Partly cloudy"
                         }
                     ],
                     "weatherIconUrl": [
