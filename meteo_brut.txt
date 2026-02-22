@@ -1,19 +1,19 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "12",
-            "FeelsLikeF": "54",
+            "FeelsLikeC": "13",
+            "FeelsLikeF": "55",
             "cloudcover": "75",
-            "humidity": "77",
-            "localObsDateTime": "2026-02-22 01:49 PM",
-            "observation_time": "12:49 PM",
+            "humidity": "72",
+            "localObsDateTime": "2026-02-22 02:38 PM",
+            "observation_time": "01:38 PM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.2",
             "pressure": "1023",
             "pressureInches": "30",
             "temp_C": "14",
-            "temp_F": "57",
-            "uvIndex": "1",
+            "temp_F": "58",
+            "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
             "weatherCode": "116",
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "WSW",
-            "winddirDegree": "240",
-            "windspeedKmph": "22",
+            "winddirDegree": "241",
+            "windspeedKmph": "21",
             "windspeedMiles": "13"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Saint-Merri"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
-            "longitude": "2.333",
-            "population": "2110694",
+            "latitude": "48.850",
+            "longitude": "2.350",
+            "population": "0",
             "region": [
                 {
                     "value": "Ile-de-France"
