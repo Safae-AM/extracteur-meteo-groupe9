@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "15",
-            "FeelsLikeF": "60",
-            "cloudcover": "50",
+            "FeelsLikeC": "14",
+            "FeelsLikeF": "57",
+            "cloudcover": "0",
             "humidity": "72",
-            "localObsDateTime": "2026-02-24 06:05 PM",
-            "observation_time": "05:05 PM",
+            "localObsDateTime": "2026-02-24 06:54 PM",
+            "observation_time": "05:54 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1018",
+            "pressure": "1019",
             "pressureInches": "30",
-            "temp_C": "15",
-            "temp_F": "60",
+            "temp_C": "14",
+            "temp_F": "58",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "113",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Sunny"
                 }
             ],
             "weatherIconUrl": [
@@ -409,24 +409,24 @@
                     "chanceofsunshine": "88",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "50",
+                    "cloudcover": "0",
                     "diffRad": "0.0",
                     "humidity": "72",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1018",
+                    "pressure": "1019",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "15",
-                    "tempF": "60",
+                    "tempC": "14",
+                    "tempF": "58",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "116",
+                    "weatherCode": "113",
                     "weatherDesc": [
                         {
-                            "value": "Partly cloudy"
+                            "value": "Sunny"
                         }
                     ],
                     "weatherIconUrl": [
