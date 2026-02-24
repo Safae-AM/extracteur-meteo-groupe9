@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "10",
-            "FeelsLikeF": "50",
+            "FeelsLikeC": "8",
+            "FeelsLikeF": "46",
             "cloudcover": "0",
-            "humidity": "87",
-            "localObsDateTime": "2026-02-24 10:59 PM",
-            "observation_time": "09:59 PM",
+            "humidity": "93",
+            "localObsDateTime": "2026-02-24 11:47 PM",
+            "observation_time": "10:47 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1018",
             "pressureInches": "30",
-            "temp_C": "11",
-            "temp_F": "52",
+            "temp_C": "9",
+            "temp_F": "49",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "113",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Clear"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -28,7 +28,7 @@
                 }
             ],
             "winddir16Point": "SE",
-            "winddirDegree": "124",
+            "winddirDegree": "129",
             "windspeedKmph": "11",
             "windspeedMiles": "7"
         }
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Gentilly"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.817",
+            "latitude": "48.867",
             "longitude": "2.333",
-            "population": "15639",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
