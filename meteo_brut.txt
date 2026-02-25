@@ -2,24 +2,24 @@
     "current_condition": [
         {
             "FeelsLikeC": "5",
-            "FeelsLikeF": "42",
+            "FeelsLikeF": "40",
             "cloudcover": "0",
             "humidity": "100",
-            "localObsDateTime": "2026-02-25 07:09 AM",
-            "observation_time": "06:09 AM",
+            "localObsDateTime": "2026-02-25 07:57 AM",
+            "observation_time": "06:57 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1017",
+            "pressure": "1018",
             "pressureInches": "30",
-            "temp_C": "7",
-            "temp_F": "45",
+            "temp_C": "6",
+            "temp_F": "44",
             "uvIndex": "0",
             "visibility": "8",
             "visibilityMiles": "4",
             "weatherCode": "248",
             "weatherDesc": [
                 {
-                    "value": "Shallow fog"
+                    "value": "Patches of fog"
                 }
             ],
             "weatherIconUrl": [
