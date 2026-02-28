@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "7",
-            "FeelsLikeF": "45",
-            "cloudcover": "75",
-            "humidity": "76",
-            "localObsDateTime": "2026-02-28 10:16 AM",
-            "observation_time": "09:16 AM",
+            "FeelsLikeC": "9",
+            "FeelsLikeF": "47",
+            "cloudcover": "100",
+            "humidity": "66",
+            "localObsDateTime": "2026-02-28 11:06 AM",
+            "observation_time": "10:06 AM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
-            "pressure": "1021",
+            "precipMM": "0.1",
+            "pressure": "1020",
             "pressureInches": "30",
-            "temp_C": "10",
-            "temp_F": "50",
-            "uvIndex": "1",
+            "temp_C": "11",
+            "temp_F": "52",
+            "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "122",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Overcast"
                 }
             ],
             "weatherIconUrl": [
@@ -27,17 +27,17 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SW",
-            "winddirDegree": "216",
-            "windspeedKmph": "24",
-            "windspeedMiles": "15"
+            "winddir16Point": "SSW",
+            "winddirDegree": "212",
+            "windspeedKmph": "23",
+            "windspeedMiles": "14"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
