@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "13",
-            "FeelsLikeF": "56",
+            "FeelsLikeC": "15",
+            "FeelsLikeF": "59",
             "cloudcover": "0",
-            "humidity": "77",
-            "localObsDateTime": "2026-03-06 11:39 AM",
-            "observation_time": "10:39 AM",
+            "humidity": "67",
+            "localObsDateTime": "2026-03-06 12:28 PM",
+            "observation_time": "11:28 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1020",
+            "pressure": "1021",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
-            "uvIndex": "4",
+            "temp_C": "15",
+            "temp_F": "59",
+            "uvIndex": "3",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "119",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -27,9 +27,9 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSE",
-            "winddirDegree": "168",
-            "windspeedKmph": "7",
+            "winddir16Point": "SSW",
+            "winddirDegree": "191",
+            "windspeedKmph": "6",
             "windspeedMiles": "4"
         }
     ],
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -307,9 +307,9 @@
                     "chanceofsunshine": "13",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "76",
+                    "cloudcover": "0",
                     "diffRad": "78.4",
-                    "humidity": "65",
+                    "humidity": "67",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1021",
