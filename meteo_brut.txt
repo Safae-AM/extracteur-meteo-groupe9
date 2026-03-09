@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "15",
-            "FeelsLikeF": "59",
+            "FeelsLikeC": "14",
+            "FeelsLikeF": "57",
             "cloudcover": "0",
-            "humidity": "63",
-            "localObsDateTime": "2026-03-09 08:30 PM",
-            "observation_time": "07:30 PM",
+            "humidity": "72",
+            "localObsDateTime": "2026-03-09 09:20 PM",
+            "observation_time": "08:20 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1018",
             "pressureInches": "30",
-            "temp_C": "14",
-            "temp_F": "58",
+            "temp_C": "13",
+            "temp_F": "56",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "116",
+            "weatherCode": "119",
             "weatherDesc": [
                 {
-                    "value": "Partly cloudy"
+                    "value": "Cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -27,10 +27,10 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "SSE",
-            "winddirDegree": "163",
+            "winddir16Point": "S",
+            "winddirDegree": "172",
             "windspeedKmph": "4",
-            "windspeedMiles": "3"
+            "windspeedMiles": "2"
         }
     ],
     "nearest_area": [
@@ -460,16 +460,16 @@
                     "chanceofsunshine": "15",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "74",
+                    "cloudcover": "0",
                     "diffRad": "0.0",
-                    "humidity": "57",
+                    "humidity": "72",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
                     "pressure": "1018",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "14",
-                    "tempF": "57",
+                    "tempC": "13",
+                    "tempF": "56",
                     "time": "2100",
                     "uvIndex": "0",
                     "visibility": "10",
@@ -487,7 +487,7 @@
                     ],
                     "winddir16Point": "S",
                     "winddirDegree": "172",
-                    "windspeedKmph": "3",
+                    "windspeedKmph": "4",
                     "windspeedMiles": "2"
                 }
             ],
