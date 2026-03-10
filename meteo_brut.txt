@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "13",
-            "FeelsLikeF": "56",
-            "cloudcover": "75",
-            "humidity": "72",
-            "localObsDateTime": "2026-03-10 12:34 AM",
-            "observation_time": "11:34 PM",
+            "FeelsLikeC": "12",
+            "FeelsLikeF": "54",
+            "cloudcover": "100",
+            "humidity": "83",
+            "localObsDateTime": "2026-03-10 02:13 AM",
+            "observation_time": "01:13 AM",
             "precipInches": "0.0",
-            "precipMM": "0.5",
+            "precipMM": "0.1",
             "pressure": "1018",
             "pressureInches": "30",
-            "temp_C": "13",
-            "temp_F": "56",
+            "temp_C": "12",
+            "temp_F": "54",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "176",
             "weatherDesc": [
                 {
-                    "value": "Light rain shower"
+                    "value": "Patchy rain nearby"
                 }
             ],
             "weatherIconUrl": [
@@ -28,16 +28,16 @@
                 }
             ],
             "winddir16Point": "WSW",
-            "winddirDegree": "249",
-            "windspeedKmph": "6",
-            "windspeedMiles": "4"
+            "winddirDegree": "250",
+            "windspeedKmph": "5",
+            "windspeedMiles": "3"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
