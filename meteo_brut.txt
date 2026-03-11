@@ -1,12 +1,12 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "12",
+            "FeelsLikeC": "11",
             "FeelsLikeF": "53",
             "cloudcover": "25",
             "humidity": "51",
-            "localObsDateTime": "2026-03-11 05:24 PM",
-            "observation_time": "04:24 PM",
+            "localObsDateTime": "2026-03-11 06:14 PM",
+            "observation_time": "05:14 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
             "pressure": "1016",
@@ -16,10 +16,10 @@
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "302",
+            "weatherCode": "113",
             "weatherDesc": [
                 {
-                    "value": "Rain shower"
+                    "value": "Sunny"
                 }
             ],
             "weatherIconUrl": [
@@ -409,16 +409,16 @@
                     "chanceofsunshine": "92",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "4",
+                    "cloudcover": "25",
                     "diffRad": "120.6",
-                    "humidity": "56",
+                    "humidity": "51",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1018",
+                    "pressure": "1016",
                     "pressureInches": "30",
                     "shortRad": "349.4",
-                    "tempC": "12",
-                    "tempF": "53",
+                    "tempC": "13",
+                    "tempF": "56",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
