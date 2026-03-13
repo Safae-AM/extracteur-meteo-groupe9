@@ -4,12 +4,12 @@
             "FeelsLikeC": "8",
             "FeelsLikeF": "47",
             "cloudcover": "100",
-            "humidity": "87",
-            "localObsDateTime": "2026-03-13 10:14 AM",
-            "observation_time": "09:14 AM",
+            "humidity": "94",
+            "localObsDateTime": "2026-03-13 11:04 AM",
+            "observation_time": "10:04 AM",
             "precipInches": "0.0",
-            "precipMM": "0.2",
-            "pressure": "1008",
+            "precipMM": "0.5",
+            "pressure": "1007",
             "pressureInches": "30",
             "temp_C": "11",
             "temp_F": "52",
@@ -28,8 +28,8 @@
                 }
             ],
             "winddir16Point": "SSW",
-            "winddirDegree": "202",
-            "windspeedKmph": "30",
+            "winddirDegree": "205",
+            "windspeedKmph": "31",
             "windspeedMiles": "19"
         }
     ],
