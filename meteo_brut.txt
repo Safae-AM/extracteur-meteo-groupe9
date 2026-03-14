@@ -1,18 +1,18 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "1",
-            "FeelsLikeF": "34",
+            "FeelsLikeC": "2",
+            "FeelsLikeF": "36",
             "cloudcover": "50",
-            "humidity": "87",
-            "localObsDateTime": "2026-03-14 09:07 AM",
-            "observation_time": "08:07 AM",
+            "humidity": "81",
+            "localObsDateTime": "2026-03-14 09:56 AM",
+            "observation_time": "08:56 AM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1004",
+            "pressure": "1005",
             "pressureInches": "30",
-            "temp_C": "4",
-            "temp_F": "40",
+            "temp_C": "5",
+            "temp_F": "41",
             "uvIndex": "0",
             "visibility": "10",
             "visibilityMiles": "6",
@@ -37,7 +37,7 @@
         {
             "areaName": [
                 {
-                    "value": "Paris"
+                    "value": "Saint-Merri"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.867",
-            "longitude": "2.333",
-            "population": "2110694",
+            "latitude": "48.850",
+            "longitude": "2.350",
+            "population": "0",
             "region": [
                 {
                     "value": "Ile-de-France"
@@ -258,14 +258,14 @@
                     "chanceofwindy": "0",
                     "cloudcover": "50",
                     "diffRad": "32.0",
-                    "humidity": "87",
+                    "humidity": "81",
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1004",
+                    "pressure": "1005",
                     "pressureInches": "30",
                     "shortRad": "100.0",
-                    "tempC": "4",
-                    "tempF": "40",
+                    "tempC": "5",
+                    "tempF": "41",
                     "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
