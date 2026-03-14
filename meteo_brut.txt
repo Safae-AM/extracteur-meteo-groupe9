@@ -4,9 +4,9 @@
             "FeelsLikeC": "7",
             "FeelsLikeF": "45",
             "cloudcover": "75",
-            "humidity": "57",
-            "localObsDateTime": "2026-03-14 02:00 PM",
-            "observation_time": "01:00 PM",
+            "humidity": "62",
+            "localObsDateTime": "2026-03-14 02:49 PM",
+            "observation_time": "01:49 PM",
             "precipInches": "0.0",
             "precipMM": "0.1",
             "pressure": "1006",
@@ -16,10 +16,10 @@
             "uvIndex": "2",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "296",
+            "weatherCode": "302",
             "weatherDesc": [
                 {
-                    "value": "Light rain shower"
+                    "value": "Rain shower"
                 }
             ],
             "weatherIconUrl": [
