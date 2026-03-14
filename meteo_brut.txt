@@ -1,25 +1,25 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "3",
-            "FeelsLikeF": "38",
+            "FeelsLikeC": "4",
+            "FeelsLikeF": "40",
             "cloudcover": "25",
-            "humidity": "75",
-            "localObsDateTime": "2026-03-14 10:44 AM",
-            "observation_time": "09:44 AM",
+            "humidity": "76",
+            "localObsDateTime": "2026-03-14 11:34 AM",
+            "observation_time": "10:34 AM",
             "precipInches": "0.0",
-            "precipMM": "0.0",
+            "precipMM": "0.2",
             "pressure": "1005",
             "pressureInches": "30",
-            "temp_C": "6",
-            "temp_F": "43",
-            "uvIndex": "1",
+            "temp_C": "7",
+            "temp_F": "45",
+            "uvIndex": "2",
             "visibility": "10",
             "visibilityMiles": "6",
-            "weatherCode": "176",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Patchy rain nearby"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -27,17 +27,17 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "W",
-            "winddirDegree": "278",
-            "windspeedKmph": "13",
-            "windspeedMiles": "8"
+            "winddir16Point": "WNW",
+            "winddirDegree": "284",
+            "windspeedKmph": "14",
+            "windspeedMiles": "9"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Saint-Merri"
+                    "value": "Paris"
                 }
             ],
             "country": [
@@ -45,9 +45,9 @@
                     "value": "France"
                 }
             ],
-            "latitude": "48.850",
-            "longitude": "2.350",
-            "population": "0",
+            "latitude": "48.867",
+            "longitude": "2.333",
+            "population": "2110694",
             "region": [
                 {
                     "value": "Ile-de-France"
