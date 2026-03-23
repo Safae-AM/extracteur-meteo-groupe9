@@ -1,21 +1,21 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "13",
-      "FeelsLikeF": "55",
+      "FeelsLikeC": "16",
+      "FeelsLikeF": "61",
       "cloudcover": "0",
-      "humidity": "58",
-      "localObsDateTime": "2026-03-23 12:20 PM",
-      "observation_time": "11:20 AM",
+      "humidity": "42",
+      "localObsDateTime": "2026-03-23 02:40 PM",
+      "observation_time": "01:40 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1020",
       "pressureInches": "30",
-      "temp_C": "13",
-      "temp_F": "56",
+      "temp_C": "16",
+      "temp_F": "61",
       "uvIndex": "3",
-      "visibility": "9",
-      "visibilityMiles": "5",
+      "visibility": "10",
+      "visibilityMiles": "6",
       "weatherCode": "113",
       "weatherDesc": [
         {
@@ -27,17 +27,17 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
-      "winddir16Point": "NNE",
-      "winddirDegree": "19",
-      "windspeedKmph": "9",
-      "windspeedMiles": "6"
+      "winddir16Point": "N",
+      "winddirDegree": "10",
+      "windspeedKmph": "8",
+      "windspeedMiles": "5"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Saint-Merri"
+          "value": "Gentilly"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.850",
-      "longitude": "2.350",
-      "population": "0",
+      "latitude": "48.817",
+      "longitude": "2.333",
+      "population": "15639",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.333"
         }
       ]
     }
@@ -307,20 +307,20 @@
           "chanceofsunshine": "90",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "0",
+          "cloudcover": "3",
           "diffRad": "106.5",
-          "humidity": "58",
+          "humidity": "48",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1020",
           "pressureInches": "30",
           "shortRad": "337.0",
-          "tempC": "13",
-          "tempF": "56",
+          "tempC": "14",
+          "tempF": "57",
           "time": "1200",
           "uvIndex": "3",
-          "visibility": "9",
-          "visibilityMiles": "5",
+          "visibility": "10",
+          "visibilityMiles": "6",
           "weatherCode": "113",
           "weatherDesc": [
             {
