@@ -1,36 +1,36 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "6",
-      "FeelsLikeF": "43",
-      "cloudcover": "75",
-      "humidity": "50",
-      "localObsDateTime": "2026-03-25 07:09 PM",
-      "observation_time": "06:09 PM",
+      "FeelsLikeC": "-2",
+      "FeelsLikeF": "29",
+      "cloudcover": "50",
+      "humidity": "87",
+      "localObsDateTime": "2026-03-25 08:19 PM",
+      "observation_time": "07:19 PM",
       "precipInches": "0.0",
-      "precipMM": "0.1",
-      "pressure": "1013",
+      "precipMM": "0.2",
+      "pressure": "1015",
       "pressureInches": "30",
-      "temp_C": "9",
-      "temp_F": "49",
+      "temp_C": "3",
+      "temp_F": "37",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "395",
+      "weatherCode": "317",
       "weatherDesc": [
         {
-          "value": "Light rain and small hail/snow pallets with thunderstorm"
+          "value": "Light rain and small hail/snow pallets shower"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0012_heavy_snow_showers.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0037_cloudy_with_sleet_night.png"
         }
       ],
       "winddir16Point": "NW",
-      "winddirDegree": "305",
-      "windspeedKmph": "23",
-      "windspeedMiles": "15"
+      "winddirDegree": "304",
+      "windspeedKmph": "22",
+      "windspeedMiles": "14"
     }
   ],
   "nearest_area": [
