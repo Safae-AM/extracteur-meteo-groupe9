@@ -1,43 +1,43 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "6",
-      "FeelsLikeF": "43",
-      "cloudcover": "50",
-      "humidity": "53",
-      "localObsDateTime": "2026-03-26 04:10 PM",
-      "observation_time": "03:10 PM",
+      "FeelsLikeC": "8",
+      "FeelsLikeF": "46",
+      "cloudcover": "0",
+      "humidity": "43",
+      "localObsDateTime": "2026-03-26 05:20 PM",
+      "observation_time": "04:20 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1021",
+      "pressure": "1020",
       "pressureInches": "30",
-      "temp_C": "9",
-      "temp_F": "49",
+      "temp_C": "10",
+      "temp_F": "51",
       "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "317",
+      "weatherCode": "113",
       "weatherDesc": [
         {
-          "value": "Rain and small hail/snow pallets shower"
+          "value": "Sunny"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0021_cloudy_with_sleet.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
       "winddir16Point": "NNW",
-      "winddirDegree": "340",
-      "windspeedKmph": "23",
-      "windspeedMiles": "14"
+      "winddirDegree": "341",
+      "windspeedKmph": "22",
+      "windspeedMiles": "13"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Gentilly"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.817",
-      "longitude": "2.333",
-      "population": "15639",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
