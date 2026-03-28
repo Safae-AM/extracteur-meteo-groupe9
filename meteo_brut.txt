@@ -1,34 +1,34 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "5",
-      "FeelsLikeF": "41",
-      "cloudcover": "25",
-      "humidity": "61",
-      "localObsDateTime": "2026-03-28 09:49 PM",
-      "observation_time": "08:49 PM",
+      "FeelsLikeC": "1",
+      "FeelsLikeF": "34",
+      "cloudcover": "0",
+      "humidity": "81",
+      "localObsDateTime": "2026-03-28 10:59 PM",
+      "observation_time": "09:59 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1028",
+      "pressure": "1029",
       "pressureInches": "30",
-      "temp_C": "7",
-      "temp_F": "45",
+      "temp_C": "4",
+      "temp_F": "39",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "296",
+      "weatherCode": "113",
       "weatherDesc": [
         {
-          "value": "Light rain shower"
+          "value": "Clear"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0033_cloudy_with_light_rain_night.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
         }
       ],
       "winddir16Point": "NW",
-      "winddirDegree": "323",
+      "winddirDegree": "322",
       "windspeedKmph": "14",
       "windspeedMiles": "9"
     }
@@ -37,7 +37,7 @@
     {
       "areaName": [
         {
-          "value": "Gentilly"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.817",
-      "longitude": "2.333",
-      "population": "15639",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -460,9 +460,9 @@
           "chanceofsunshine": "87",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "25",
+          "cloudcover": "13",
           "diffRad": "0.2",
-          "humidity": "61",
+          "humidity": "60",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1028",
@@ -474,15 +474,15 @@
           "uvIndex": "0",
           "visibility": "10",
           "visibilityMiles": "6",
-          "weatherCode": "296",
+          "weatherCode": "113",
           "weatherDesc": [
             {
-              "value": "Light rain"
+              "value": "Clear "
             }
           ],
           "weatherIconUrl": [
             {
-              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0033_cloudy_with_light_rain_night.png"
+              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
             }
           ],
           "winddir16Point": "NW",
