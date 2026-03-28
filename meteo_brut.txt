@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "8",
-      "FeelsLikeF": "46",
-      "cloudcover": "75",
-      "humidity": "66",
-      "localObsDateTime": "2026-03-28 11:20 AM",
-      "observation_time": "10:20 AM",
+      "FeelsLikeC": "7",
+      "FeelsLikeF": "45",
+      "cloudcover": "50",
+      "humidity": "58",
+      "localObsDateTime": "2026-03-28 12:30 PM",
+      "observation_time": "11:30 AM",
       "precipInches": "0.0",
       "precipMM": "0.1",
-      "pressure": "1023",
+      "pressure": "1024",
       "pressureInches": "30",
       "temp_C": "10",
-      "temp_F": "51",
+      "temp_F": "50",
       "uvIndex": "3",
       "visibility": "10",
       "visibilityMiles": "6",
@@ -28,9 +28,9 @@
         }
       ],
       "winddir16Point": "NNW",
-      "winddirDegree": "344",
-      "windspeedKmph": "21",
-      "windspeedMiles": "13"
+      "winddirDegree": "339",
+      "windspeedKmph": "23",
+      "windspeedMiles": "14"
     }
   ],
   "nearest_area": [
@@ -307,29 +307,29 @@
           "chanceofsunshine": "0",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "90",
+          "cloudcover": "50",
           "diffRad": "101.9",
-          "humidity": "52",
+          "humidity": "58",
           "precipInches": "0.0",
           "precipMM": "0.1",
-          "pressure": "1025",
+          "pressure": "1024",
           "pressureInches": "30",
           "shortRad": "218.0",
-          "tempC": "9",
-          "tempF": "49",
+          "tempC": "10",
+          "tempF": "50",
           "time": "1200",
           "uvIndex": "3",
           "visibility": "10",
           "visibilityMiles": "6",
-          "weatherCode": "176",
+          "weatherCode": "116",
           "weatherDesc": [
             {
-              "value": "Patchy rain nearby"
+              "value": "Partly cloudy"
             }
           ],
           "weatherIconUrl": [
             {
-              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
+              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
             }
           ],
           "winddir16Point": "NNW",
