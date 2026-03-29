@@ -1,25 +1,25 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "6",
-      "FeelsLikeF": "43",
-      "cloudcover": "75",
-      "humidity": "62",
-      "localObsDateTime": "2026-03-30 01:00 AM",
-      "observation_time": "11:00 PM",
+      "FeelsLikeC": "7",
+      "FeelsLikeF": "44",
+      "cloudcover": "100",
+      "humidity": "66",
+      "localObsDateTime": "2026-03-30 01:39 AM",
+      "observation_time": "11:39 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1027",
+      "pressure": "1026",
       "pressureInches": "30",
       "temp_C": "9",
-      "temp_F": "48",
+      "temp_F": "49",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "116",
+      "weatherCode": "122",
       "weatherDesc": [
         {
-          "value": "Partly cloudy"
+          "value": "Overcast"
         }
       ],
       "weatherIconUrl": [
@@ -37,7 +37,7 @@
     {
       "areaName": [
         {
-          "value": "Gentilly"
+          "value": "Paris"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.817",
+      "latitude": "48.867",
       "longitude": "2.333",
-      "population": "15639",
+      "population": "2110694",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
         }
       ]
     }
