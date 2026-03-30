@@ -1,36 +1,36 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "7",
-      "FeelsLikeF": "44",
-      "cloudcover": "25",
-      "humidity": "93",
-      "localObsDateTime": "2026-03-30 09:49 AM",
-      "observation_time": "07:49 AM",
+      "FeelsLikeC": "9",
+      "FeelsLikeF": "49",
+      "cloudcover": "75",
+      "humidity": "66",
+      "localObsDateTime": "2026-03-30 11:00 AM",
+      "observation_time": "09:00 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1023",
       "pressureInches": "30",
-      "temp_C": "9",
-      "temp_F": "49",
-      "uvIndex": "0",
+      "temp_C": "11",
+      "temp_F": "52",
+      "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "176",
+      "weatherCode": "116",
       "weatherDesc": [
         {
-          "value": "Patchy rain nearby"
+          "value": "Partly cloudy"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
         }
       ],
       "winddir16Point": "WNW",
-      "winddirDegree": "300",
-      "windspeedKmph": "16",
-      "windspeedMiles": "10"
+      "winddirDegree": "303",
+      "windspeedKmph": "17",
+      "windspeedMiles": "11"
     }
   ],
   "nearest_area": [
@@ -256,16 +256,16 @@
           "chanceofsunshine": "0",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "25",
+          "cloudcover": "65",
           "diffRad": "23.8",
-          "humidity": "93",
+          "humidity": "84",
           "precipInches": "0.0",
           "precipMM": "0.0",
-          "pressure": "1023",
+          "pressure": "1024",
           "pressureInches": "30",
           "shortRad": "47.1",
-          "tempC": "9",
-          "tempF": "49",
+          "tempC": "10",
+          "tempF": "50",
           "time": "900",
           "uvIndex": "0",
           "visibility": "10",
