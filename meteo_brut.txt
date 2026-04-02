@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "14",
-      "FeelsLikeF": "57",
+      "FeelsLikeC": "11",
+      "FeelsLikeF": "52",
       "cloudcover": "100",
-      "humidity": "63",
-      "localObsDateTime": "2026-04-02 05:09 PM",
-      "observation_time": "03:09 PM",
+      "humidity": "77",
+      "localObsDateTime": "2026-04-02 06:19 PM",
+      "observation_time": "04:19 PM",
       "precipInches": "0.0",
-      "precipMM": "0.0",
+      "precipMM": "0.1",
       "pressure": "1019",
       "pressureInches": "30",
-      "temp_C": "14",
-      "temp_F": "58",
+      "temp_C": "12",
+      "temp_F": "54",
       "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
@@ -28,16 +28,16 @@
         }
       ],
       "winddir16Point": "N",
-      "winddirDegree": "10",
-      "windspeedKmph": "10",
-      "windspeedMiles": "6"
+      "winddirDegree": "358",
+      "windspeedKmph": "12",
+      "windspeedMiles": "7"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Saint-Merri"
+          "value": "Paris"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.850",
-      "longitude": "2.350",
-      "population": "0",
+      "latitude": "48.867",
+      "longitude": "2.333",
+      "population": "2110694",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
         }
       ]
     }
@@ -409,12 +409,12 @@
           "chanceofsunshine": "0",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "81",
+          "cloudcover": "100",
           "diffRad": "103.7",
-          "humidity": "65",
+          "humidity": "77",
           "precipInches": "0.0",
           "precipMM": "0.1",
-          "pressure": "1018",
+          "pressure": "1019",
           "pressureInches": "30",
           "shortRad": "260.9",
           "tempC": "12",
@@ -423,15 +423,15 @@
           "uvIndex": "1",
           "visibility": "10",
           "visibilityMiles": "6",
-          "weatherCode": "176",
+          "weatherCode": "122",
           "weatherDesc": [
             {
-              "value": "Patchy rain nearby"
+              "value": "Overcast"
             }
           ],
           "weatherIconUrl": [
             {
-              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
+              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
             }
           ],
           "winddir16Point": "N",
