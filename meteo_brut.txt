@@ -2,18 +2,18 @@
   "current_condition": [
     {
       "FeelsLikeC": "11",
-      "FeelsLikeF": "53",
+      "FeelsLikeF": "51",
       "cloudcover": "75",
-      "humidity": "67",
-      "localObsDateTime": "2026-04-03 03:20 PM",
-      "observation_time": "01:20 PM",
+      "humidity": "71",
+      "localObsDateTime": "2026-04-03 04:30 PM",
+      "observation_time": "02:30 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1019",
       "pressureInches": "30",
-      "temp_C": "13",
-      "temp_F": "55",
-      "uvIndex": "2",
+      "temp_C": "12",
+      "temp_F": "54",
+      "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "116",
@@ -28,8 +28,8 @@
         }
       ],
       "winddir16Point": "WSW",
-      "winddirDegree": "245",
-      "windspeedKmph": "17",
+      "winddirDegree": "246",
+      "windspeedKmph": "18",
       "windspeedMiles": "11"
     }
   ],
@@ -358,29 +358,29 @@
           "chanceofsunshine": "14",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "75",
+          "cloudcover": "99",
           "diffRad": "238.8",
-          "humidity": "67",
+          "humidity": "52",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1019",
           "pressureInches": "30",
           "shortRad": "495.4",
-          "tempC": "13",
-          "tempF": "55",
+          "tempC": "14",
+          "tempF": "57",
           "time": "1500",
           "uvIndex": "2",
           "visibility": "10",
           "visibilityMiles": "6",
-          "weatherCode": "116",
+          "weatherCode": "122",
           "weatherDesc": [
             {
-              "value": "Partly cloudy"
+              "value": "Overcast "
             }
           ],
           "weatherIconUrl": [
             {
-              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
             }
           ],
           "winddir16Point": "WSW",
