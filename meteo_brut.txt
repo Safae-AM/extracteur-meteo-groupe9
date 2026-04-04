@@ -1,19 +1,19 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "13",
-      "FeelsLikeF": "56",
+      "FeelsLikeC": "12",
+      "FeelsLikeF": "53",
       "cloudcover": "100",
       "humidity": "82",
-      "localObsDateTime": "2026-04-04 12:20 PM",
-      "observation_time": "10:20 AM",
+      "localObsDateTime": "2026-04-04 01:30 PM",
+      "observation_time": "11:30 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1023",
       "pressureInches": "30",
-      "temp_C": "14",
-      "temp_F": "58",
-      "uvIndex": "1",
+      "temp_C": "13",
+      "temp_F": "56",
+      "uvIndex": "3",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "122",
@@ -28,9 +28,9 @@
         }
       ],
       "winddir16Point": "SSW",
-      "winddirDegree": "205",
-      "windspeedKmph": "14",
-      "windspeedMiles": "9"
+      "winddirDegree": "206",
+      "windspeedKmph": "15",
+      "windspeedMiles": "10"
     }
   ],
   "nearest_area": [
@@ -307,16 +307,16 @@
           "chanceofsunshine": "6",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "100",
+          "cloudcover": "91",
           "diffRad": "52.6",
-          "humidity": "82",
+          "humidity": "77",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1023",
           "pressureInches": "30",
           "shortRad": "90.8",
-          "tempC": "14",
-          "tempF": "58",
+          "tempC": "13",
+          "tempF": "55",
           "time": "1200",
           "uvIndex": "1",
           "visibility": "10",
@@ -324,7 +324,7 @@
           "weatherCode": "122",
           "weatherDesc": [
             {
-              "value": "Overcast"
+              "value": "Overcast "
             }
           ],
           "weatherIconUrl": [
