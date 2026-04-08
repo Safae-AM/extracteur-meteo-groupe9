@@ -5,8 +5,8 @@
       "FeelsLikeF": "47",
       "cloudcover": "0",
       "humidity": "76",
-      "localObsDateTime": "2026-04-08 05:19 AM",
-      "observation_time": "03:19 AM",
+      "localObsDateTime": "2026-04-08 07:19 AM",
+      "observation_time": "05:19 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1022",
@@ -28,7 +28,7 @@
         }
       ],
       "winddir16Point": "ENE",
-      "winddirDegree": "68",
+      "winddirDegree": "64",
       "windspeedKmph": "6",
       "windspeedMiles": "4"
     }
