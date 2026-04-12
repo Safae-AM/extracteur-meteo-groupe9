@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "13",
-      "FeelsLikeF": "55",
+      "FeelsLikeC": "10",
+      "FeelsLikeF": "49",
       "cloudcover": "0",
-      "humidity": "54",
-      "localObsDateTime": "2026-04-12 07:59 PM",
-      "observation_time": "05:59 PM",
+      "humidity": "66",
+      "localObsDateTime": "2026-04-12 09:59 PM",
+      "observation_time": "07:59 PM",
       "precipInches": "0.0",
-      "precipMM": "0.0",
+      "precipMM": "0.1",
       "pressure": "1014",
       "pressureInches": "30",
-      "temp_C": "12",
-      "temp_F": "54",
+      "temp_C": "10",
+      "temp_F": "51",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
@@ -24,20 +24,20 @@
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png"
         }
       ],
-      "winddir16Point": "S",
-      "winddirDegree": "181",
-      "windspeedKmph": "4",
-      "windspeedMiles": "2"
+      "winddir16Point": "SSE",
+      "winddirDegree": "153",
+      "windspeedKmph": "7",
+      "windspeedMiles": "4"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -460,16 +460,16 @@
           "chanceofsunshine": "0",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "83",
+          "cloudcover": "0",
           "diffRad": "1.9",
-          "humidity": "54",
+          "humidity": "66",
           "precipInches": "0.0",
           "precipMM": "0.1",
-          "pressure": "1015",
+          "pressure": "1014",
           "pressureInches": "30",
           "shortRad": "3.7",
-          "tempC": "12",
-          "tempF": "53",
+          "tempC": "10",
+          "tempF": "51",
           "time": "2100",
           "uvIndex": "0",
           "visibility": "10",
