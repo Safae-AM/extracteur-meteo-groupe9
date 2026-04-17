@@ -1,43 +1,43 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "20",
-      "FeelsLikeF": "68",
+      "FeelsLikeC": "17",
+      "FeelsLikeF": "63",
       "cloudcover": "0",
-      "humidity": "49",
-      "localObsDateTime": "2026-04-17 07:59 PM",
-      "observation_time": "05:59 PM",
+      "humidity": "63",
+      "localObsDateTime": "2026-04-17 09:59 PM",
+      "observation_time": "07:59 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1020",
+      "pressure": "1021",
       "pressureInches": "30",
-      "temp_C": "20",
-      "temp_F": "68",
+      "temp_C": "17",
+      "temp_F": "63",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "116",
+      "weatherCode": "176",
       "weatherDesc": [
         {
-          "value": "Partly cloudy"
+          "value": "Patchy rain nearby"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png"
         }
       ],
-      "winddir16Point": "W",
-      "winddirDegree": "273",
-      "windspeedKmph": "6",
-      "windspeedMiles": "4"
+      "winddir16Point": "NW",
+      "winddirDegree": "317",
+      "windspeedKmph": "4",
+      "windspeedMiles": "2"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Saint-Merri"
+          "value": "Paris"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.850",
-      "longitude": "2.350",
-      "population": "0",
+      "latitude": "48.867",
+      "longitude": "2.333",
+      "population": "2110694",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
         }
       ]
     }
@@ -460,9 +460,9 @@
           "chanceofsunshine": "0",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "73",
+          "cloudcover": "0",
           "diffRad": "7.1",
-          "humidity": "57",
+          "humidity": "63",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1021",
