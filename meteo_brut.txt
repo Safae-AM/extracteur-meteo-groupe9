@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "15",
-      "FeelsLikeF": "59",
+      "FeelsLikeC": "16",
+      "FeelsLikeF": "60",
       "cloudcover": "0",
-      "humidity": "63",
-      "localObsDateTime": "2026-04-18 12:00 AM",
-      "observation_time": "10:00 PM",
+      "humidity": "72",
+      "localObsDateTime": "2026-04-18 02:00 AM",
+      "observation_time": "12:00 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1021",
       "pressureInches": "30",
-      "temp_C": "14",
-      "temp_F": "57",
+      "temp_C": "15",
+      "temp_F": "59",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
@@ -27,8 +27,8 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
         }
       ],
-      "winddir16Point": "ENE",
-      "winddirDegree": "63",
+      "winddir16Point": "ESE",
+      "winddirDegree": "113",
       "windspeedKmph": "4",
       "windspeedMiles": "2"
     }
