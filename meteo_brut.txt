@@ -5,31 +5,31 @@
       "FeelsLikeF": "48",
       "cloudcover": "0",
       "humidity": "50",
-      "localObsDateTime": "2026-04-24 05:59 AM",
-      "observation_time": "03:59 AM",
+      "localObsDateTime": "2026-04-24 08:00 AM",
+      "observation_time": "06:00 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1022",
       "pressureInches": "30",
       "temp_C": "10",
-      "temp_F": "51",
+      "temp_F": "50",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
       "weatherDesc": [
         {
-          "value": "Clear"
+          "value": "Sunny"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
       "winddir16Point": "NE",
-      "winddirDegree": "53",
-      "windspeedKmph": "10",
+      "winddirDegree": "54",
+      "windspeedKmph": "9",
       "windspeedMiles": "6"
     }
   ],
