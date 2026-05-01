@@ -1,25 +1,25 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "26",
-      "FeelsLikeF": "79",
-      "cloudcover": "75",
-      "humidity": "47",
-      "localObsDateTime": "2026-05-01 06:00 PM",
-      "observation_time": "04:00 PM",
+      "FeelsLikeC": "21",
+      "FeelsLikeF": "71",
+      "cloudcover": "0",
+      "humidity": "64",
+      "localObsDateTime": "2026-05-01 08:00 PM",
+      "observation_time": "06:00 PM",
       "precipInches": "0.0",
-      "precipMM": "0.1",
+      "precipMM": "0.6",
       "pressure": "1020",
       "pressureInches": "30",
-      "temp_C": "25",
-      "temp_F": "78",
-      "uvIndex": "2",
+      "temp_C": "21",
+      "temp_F": "71",
+      "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "386",
       "weatherDesc": [
         {
-          "value": "Thunderstorm in vicinity, light rain with thunderstorm"
+          "value": "Thunderstorm, rain with thunderstorm"
         }
       ],
       "weatherIconUrl": [
@@ -28,16 +28,16 @@
         }
       ],
       "winddir16Point": "SSW",
-      "winddirDegree": "201",
-      "windspeedKmph": "10",
-      "windspeedMiles": "6"
+      "winddirDegree": "192",
+      "windspeedKmph": "8",
+      "windspeedMiles": "5"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
