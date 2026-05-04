@@ -3,41 +3,41 @@
     {
       "FeelsLikeC": "16",
       "FeelsLikeF": "61",
-      "cloudcover": "25",
+      "cloudcover": "75",
       "humidity": "88",
-      "localObsDateTime": "2026-05-04 06:00 PM",
-      "observation_time": "04:00 PM",
+      "localObsDateTime": "2026-05-04 08:00 PM",
+      "observation_time": "06:00 PM",
       "precipInches": "0.0",
-      "precipMM": "1.1",
+      "precipMM": "0.6",
       "pressure": "1011",
       "pressureInches": "30",
       "temp_C": "16",
       "temp_F": "61",
-      "uvIndex": "1",
+      "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "302",
+      "weatherCode": "296",
       "weatherDesc": [
         {
-          "value": "Rain shower"
+          "value": "Light rain shower"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0018_cloudy_with_heavy_rain.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0017_cloudy_with_light_rain.png"
         }
       ],
-      "winddir16Point": "S",
-      "winddirDegree": "182",
-      "windspeedKmph": "7",
-      "windspeedMiles": "4"
+      "winddir16Point": "SW",
+      "winddirDegree": "223",
+      "windspeedKmph": "9",
+      "windspeedMiles": "6"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Saint-Merri"
+          "value": "Paris"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.850",
-      "longitude": "2.350",
-      "population": "0",
+      "latitude": "48.867",
+      "longitude": "2.333",
+      "population": "2110694",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
         }
       ]
     }
