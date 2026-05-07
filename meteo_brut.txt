@@ -3,41 +3,41 @@
     {
       "FeelsLikeC": "10",
       "FeelsLikeF": "50",
-      "cloudcover": "100",
+      "cloudcover": "0",
       "humidity": "82",
-      "localObsDateTime": "2026-05-07 06:00 AM",
-      "observation_time": "04:00 AM",
+      "localObsDateTime": "2026-05-07 08:00 AM",
+      "observation_time": "06:00 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1014",
+      "pressure": "1015",
       "pressureInches": "30",
       "temp_C": "10",
-      "temp_F": "50",
+      "temp_F": "51",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "122",
+      "weatherCode": "116",
       "weatherDesc": [
         {
-          "value": "Overcast"
+          "value": "Partly cloudy"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
         }
       ],
       "winddir16Point": "NNW",
-      "winddirDegree": "339",
-      "windspeedKmph": "5",
-      "windspeedMiles": "3"
+      "winddirDegree": "348",
+      "windspeedKmph": "6",
+      "windspeedMiles": "4"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Saint-Merri"
+          "value": "Gentilly"
         }
       ],
       "country": [
@@ -45,9 +45,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.850",
-      "longitude": "2.350",
-      "population": "0",
+      "latitude": "48.817",
+      "longitude": "2.333",
+      "population": "15639",
       "region": [
         {
           "value": "Ile-de-France"
@@ -55,7 +55,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.367"
         }
       ]
     }
