@@ -3,9 +3,9 @@
     {
       "FeelsLikeC": "9",
       "FeelsLikeF": "48",
-      "cloudcover": "75",
-      "humidity": "87",
-      "observation_time": "10:30 PM",
+      "cloudcover": "100",
+      "humidity": "81",
+      "observation_time": "11:59 PM",
       "precipInches": "0.0",
       "precipMM": "0.1",
       "pressure": "1009",
@@ -15,10 +15,10 @@
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "116",
+      "weatherCode": "122",
       "weatherDesc": [
         {
-          "value": "Partly cloudy"
+          "value": "Overcast"
         }
       ],
       "weatherIconUrl": [
