@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "15",
-      "FeelsLikeF": "59",
+      "FeelsLikeC": "14",
+      "FeelsLikeF": "57",
       "cloudcover": "0",
-      "humidity": "44",
-      "observation_time": "04:33 PM",
+      "humidity": "47",
+      "observation_time": "06:02 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1011",
+      "pressure": "1012",
       "pressureInches": "30",
-      "temp_C": "15",
-      "temp_F": "59",
-      "uvIndex": "2",
+      "temp_C": "14",
+      "temp_F": "58",
+      "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "176",
@@ -26,10 +26,10 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
         }
       ],
-      "winddir16Point": "WNW",
-      "winddirDegree": "287",
-      "windspeedKmph": "16",
-      "windspeedMiles": "10"
+      "winddir16Point": "W",
+      "winddirDegree": "267",
+      "windspeedKmph": "11",
+      "windspeedMiles": "7"
     }
   ],
   "nearest_area": [
@@ -408,9 +408,9 @@
           "chanceofsunshine": "0",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "0",
+          "cloudcover": "84",
           "diffRad": "200.2",
-          "humidity": "44",
+          "humidity": "47",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1011",
