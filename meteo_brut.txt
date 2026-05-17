@@ -4,32 +4,32 @@
       "FeelsLikeC": "12",
       "FeelsLikeF": "53",
       "cloudcover": "100",
-      "humidity": "88",
-      "observation_time": "03:06 PM",
+      "humidity": "94",
+      "observation_time": "04:35 PM",
       "precipInches": "0.1",
-      "precipMM": "2.1",
-      "pressure": "1013",
+      "precipMM": "2.6",
+      "pressure": "1012",
       "pressureInches": "30",
       "temp_C": "12",
       "temp_F": "54",
-      "uvIndex": "1",
-      "visibility": "4",
-      "visibilityMiles": "2",
-      "weatherCode": "389",
+      "uvIndex": "0",
+      "visibility": "10",
+      "visibilityMiles": "6",
+      "weatherCode": "386",
       "weatherDesc": [
         {
-          "value": "Rain With Thunderstorm, Mist, Light Rain With Thunderstorm"
+          "value": "Light Rain, Rain With Thunderstorm"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0024_thunderstorms.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0016_thundery_showers.png"
         }
       ],
       "winddir16Point": "SW",
-      "winddirDegree": "227",
-      "windspeedKmph": "9",
-      "windspeedMiles": "6"
+      "winddirDegree": "220",
+      "windspeedKmph": "7",
+      "windspeedMiles": "4"
     }
   ],
   "nearest_area": [
@@ -410,7 +410,7 @@
           "chanceofwindy": "0",
           "cloudcover": "100",
           "diffRad": "150.8",
-          "humidity": "93",
+          "humidity": "94",
           "precipInches": "0.1",
           "precipMM": "2.6",
           "pressure": "1012",
@@ -420,17 +420,17 @@
           "tempF": "54",
           "time": "1800",
           "uvIndex": "0",
-          "visibility": "7",
-          "visibilityMiles": "4",
-          "weatherCode": "302",
+          "visibility": "10",
+          "visibilityMiles": "6",
+          "weatherCode": "386",
           "weatherDesc": [
             {
-              "value": "Moderate rain"
+              "value": "Patchy light rain with thunder"
             }
           ],
           "weatherIconUrl": [
             {
-              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0018_cloudy_with_heavy_rain.png"
+              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0016_thundery_showers.png"
             }
           ],
           "winddir16Point": "SW",
