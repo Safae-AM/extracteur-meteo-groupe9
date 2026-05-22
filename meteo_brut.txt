@@ -4,15 +4,15 @@
       "FeelsLikeC": "28",
       "FeelsLikeF": "82",
       "cloudcover": "0",
-      "humidity": "45",
-      "observation_time": "03:16 PM",
+      "humidity": "42",
+      "observation_time": "04:46 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1026",
+      "pressure": "1025",
       "pressureInches": "30",
       "temp_C": "28",
       "temp_F": "83",
-      "uvIndex": "4",
+      "uvIndex": "2",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -27,16 +27,16 @@
         }
       ],
       "winddir16Point": "ESE",
-      "winddirDegree": "119",
+      "winddirDegree": "118",
       "windspeedKmph": "9",
-      "windspeedMiles": "5"
+      "windspeedMiles": "6"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -408,16 +408,16 @@
           "chanceofsunshine": "89",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "7",
+          "cloudcover": "0",
           "diffRad": "104.1",
-          "humidity": "41",
+          "humidity": "42",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1025",
           "pressureInches": "30",
           "shortRad": "743.9",
           "tempC": "28",
-          "tempF": "82",
+          "tempF": "83",
           "time": "1800",
           "uvIndex": "2",
           "visibility": "10",
