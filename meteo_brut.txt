@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "36",
-      "FeelsLikeF": "97",
-      "cloudcover": "25",
-      "humidity": "32",
-      "observation_time": "03:51 PM",
+      "FeelsLikeC": "35",
+      "FeelsLikeF": "95",
+      "cloudcover": "50",
+      "humidity": "23",
+      "observation_time": "05:21 PM",
       "precipInches": "0.0",
-      "precipMM": "0.0",
+      "precipMM": "0.3",
       "pressure": "1018",
       "pressureInches": "30",
       "temp_C": "35",
-      "temp_F": "95",
-      "uvIndex": "4",
+      "temp_F": "96",
+      "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "389",
@@ -26,8 +26,8 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0024_thunderstorms.png"
         }
       ],
-      "winddir16Point": "WSW",
-      "winddirDegree": "247",
+      "winddir16Point": "SSW",
+      "winddirDegree": "199",
       "windspeedKmph": "13",
       "windspeedMiles": "8"
     }
@@ -36,7 +36,7 @@
     {
       "areaName": [
         {
-          "value": "Belleville-Villette"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,8 +44,8 @@
           "value": "France"
         }
       ],
-      "latitude": "48.883",
-      "longitude": "2.367",
+      "latitude": "48.850",
+      "longitude": "2.350",
       "population": "0",
       "region": [
         {
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.883,2.367"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
