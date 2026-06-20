@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "35",
-      "FeelsLikeF": "95",
-      "cloudcover": "50",
-      "humidity": "23",
-      "observation_time": "05:21 PM",
+      "FeelsLikeC": "42",
+      "FeelsLikeF": "107",
+      "cloudcover": "37",
+      "humidity": "28",
+      "observation_time": "06:49 PM",
       "precipInches": "0.0",
-      "precipMM": "0.3",
-      "pressure": "1018",
+      "precipMM": "0.0",
+      "pressure": "1019",
       "pressureInches": "30",
-      "temp_C": "35",
-      "temp_F": "96",
-      "uvIndex": "1",
+      "temp_C": "34",
+      "temp_F": "93",
+      "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "389",
@@ -26,10 +26,10 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0024_thunderstorms.png"
         }
       ],
-      "winddir16Point": "SSW",
-      "winddirDegree": "199",
-      "windspeedKmph": "13",
-      "windspeedMiles": "8"
+      "winddir16Point": "SSE",
+      "winddirDegree": "149",
+      "windspeedKmph": "16",
+      "windspeedMiles": "10"
     }
   ],
   "nearest_area": [
