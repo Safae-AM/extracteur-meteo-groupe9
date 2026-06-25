@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "39",
-      "FeelsLikeF": "102",
+      "FeelsLikeC": "41",
+      "FeelsLikeF": "105",
       "cloudcover": "0",
       "humidity": "20",
-      "observation_time": "12:58 PM",
+      "observation_time": "02:30 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1014",
+      "pressure": "1013",
       "pressureInches": "30",
-      "temp_C": "39",
-      "temp_F": "103",
-      "uvIndex": "8",
+      "temp_C": "40",
+      "temp_F": "105",
+      "uvIndex": "6",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -27,8 +27,8 @@
         }
       ],
       "winddir16Point": "E",
-      "winddirDegree": "97",
-      "windspeedKmph": "19",
+      "winddirDegree": "92",
+      "windspeedKmph": "20",
       "windspeedMiles": "12"
     }
   ],
@@ -77,7 +77,7 @@
           "sunset": "09:59 PM"
         }
       ],
-      "avgtempC": "33",
+      "avgtempC": "34",
       "avgtempF": "92",
       "date": "2026-06-25",
       "hourly": [
@@ -509,8 +509,8 @@
           "sunset": "09:59 PM"
         }
       ],
-      "avgtempC": "33",
-      "avgtempF": "91",
+      "avgtempC": "32",
+      "avgtempF": "90",
       "date": "2026-06-26",
       "hourly": [
         {
@@ -922,11 +922,11 @@
           "windspeedMiles": "8"
         }
       ],
-      "maxtempC": "40",
-      "maxtempF": "103",
-      "mintempC": "26",
-      "mintempF": "79",
-      "sunHour": "16.0",
+      "maxtempC": "38",
+      "maxtempF": "101",
+      "mintempC": "27",
+      "mintempF": "81",
+      "sunHour": "15.5",
       "totalSnow_cm": "0.0",
       "uvIndex": "8"
     },
@@ -942,7 +942,7 @@
         }
       ],
       "avgtempC": "29",
-      "avgtempF": "85",
+      "avgtempF": "84",
       "date": "2026-06-27",
       "hourly": [
         {
@@ -1354,11 +1354,11 @@
           "windspeedMiles": "14"
         }
       ],
-      "maxtempC": "36",
-      "maxtempF": "97",
-      "mintempC": "21",
-      "mintempF": "70",
-      "sunHour": "14.5",
+      "maxtempC": "40",
+      "maxtempF": "103",
+      "mintempC": "22",
+      "mintempF": "71",
+      "sunHour": "15.0",
       "totalSnow_cm": "0.0",
       "uvIndex": "9"
     }
