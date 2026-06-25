@@ -4,8 +4,8 @@
       "FeelsLikeC": "38",
       "FeelsLikeF": "101",
       "cloudcover": "0",
-      "humidity": "23",
-      "observation_time": "05:30 PM",
+      "humidity": "24",
+      "observation_time": "07:00 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1012",
@@ -27,7 +27,7 @@
         }
       ],
       "winddir16Point": "E",
-      "winddirDegree": "87",
+      "winddirDegree": "80",
       "windspeedKmph": "22",
       "windspeedMiles": "14"
     }
