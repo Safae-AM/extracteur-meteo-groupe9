@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "24",
-      "FeelsLikeF": "76",
+      "FeelsLikeC": "25",
+      "FeelsLikeF": "77",
       "cloudcover": "0",
       "humidity": "41",
-      "observation_time": "02:41 PM",
+      "observation_time": "04:14 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1024",
       "pressureInches": "30",
       "temp_C": "25",
-      "temp_F": "77",
-      "uvIndex": "6",
+      "temp_F": "78",
+      "uvIndex": "3",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -26,17 +26,17 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
-      "winddir16Point": "NNW",
-      "winddirDegree": "329",
-      "windspeedKmph": "11",
-      "windspeedMiles": "7"
+      "winddir16Point": "NW",
+      "winddirDegree": "320",
+      "windspeedKmph": "13",
+      "windspeedMiles": "8"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -408,16 +408,16 @@
           "chanceofsunshine": "81",
           "chanceofthunder": "0",
           "chanceofwindy": "1",
-          "cloudcover": "20",
+          "cloudcover": "0",
           "diffRad": "92.1",
-          "humidity": "29",
+          "humidity": "41",
           "precipInches": "0.0",
           "precipMM": "0.0",
-          "pressure": "1022",
+          "pressure": "1024",
           "pressureInches": "30",
           "shortRad": "782.8",
-          "tempC": "28",
-          "tempF": "83",
+          "tempC": "25",
+          "tempF": "78",
           "time": "1800",
           "uvIndex": "3",
           "visibility": "10",
@@ -490,8 +490,8 @@
           "windspeedMiles": "10"
         }
       ],
-      "maxtempC": "29",
-      "maxtempF": "85",
+      "maxtempC": "28",
+      "maxtempF": "83",
       "mintempC": "16",
       "mintempF": "60",
       "sunHour": "16.0",
@@ -509,8 +509,8 @@
           "sunset": "09:57 PM"
         }
       ],
-      "avgtempC": "23",
-      "avgtempF": "74",
+      "avgtempC": "22",
+      "avgtempF": "71",
       "date": "2026-07-02",
       "hourly": [
         {
@@ -922,11 +922,11 @@
           "windspeedMiles": "9"
         }
       ],
-      "maxtempC": "31",
-      "maxtempF": "88",
-      "mintempC": "17",
-      "mintempF": "62",
-      "sunHour": "16.0",
+      "maxtempC": "27",
+      "maxtempF": "80",
+      "mintempC": "16",
+      "mintempF": "61",
+      "sunHour": "15.0",
       "totalSnow_cm": "0.0",
       "uvIndex": "8"
     },
@@ -942,7 +942,7 @@
         }
       ],
       "avgtempC": "23",
-      "avgtempF": "74",
+      "avgtempF": "73",
       "date": "2026-07-03",
       "hourly": [
         {
@@ -1354,9 +1354,9 @@
           "windspeedMiles": "9"
         }
       ],
-      "maxtempC": "30",
-      "maxtempF": "86",
-      "mintempC": "16",
+      "maxtempC": "29",
+      "maxtempF": "85",
+      "mintempC": "15",
       "mintempF": "60",
       "sunHour": "16.0",
       "totalSnow_cm": "0.0",
