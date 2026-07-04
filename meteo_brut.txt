@@ -1,17 +1,17 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "21",
-      "FeelsLikeF": "70",
+      "FeelsLikeC": "19",
+      "FeelsLikeF": "67",
       "cloudcover": "0",
       "humidity": "43",
-      "observation_time": "10:16 PM",
+      "observation_time": "11:46 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1028",
       "pressureInches": "30",
-      "temp_C": "21",
-      "temp_F": "70",
+      "temp_C": "19",
+      "temp_F": "67",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
