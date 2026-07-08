@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "30",
-      "FeelsLikeF": "86",
+      "FeelsLikeC": "29",
+      "FeelsLikeF": "84",
       "cloudcover": "0",
-      "humidity": "27",
-      "observation_time": "10:49 AM",
+      "humidity": "31",
+      "observation_time": "12:21 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1019",
       "pressureInches": "30",
       "temp_C": "31",
       "temp_F": "88",
-      "uvIndex": "6",
+      "uvIndex": "8",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -26,9 +26,9 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
-      "winddir16Point": "NW",
-      "winddirDegree": "323",
-      "windspeedKmph": "6",
+      "winddir16Point": "N",
+      "winddirDegree": "353",
+      "windspeedKmph": "7",
       "windspeedMiles": "4"
     }
   ],
@@ -36,7 +36,7 @@
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -306,16 +306,16 @@
           "chanceofsunshine": "96",
           "chanceofthunder": "0",
           "chanceofwindy": "0",
-          "cloudcover": "0",
+          "cloudcover": "5",
           "diffRad": "75.7",
-          "humidity": "27",
+          "humidity": "23",
           "precipInches": "0.0",
           "precipMM": "0.0",
           "pressure": "1019",
           "pressureInches": "30",
           "shortRad": "550.7",
           "tempC": "31",
-          "tempF": "88",
+          "tempF": "87",
           "time": "1200",
           "uvIndex": "6",
           "visibility": "10",
