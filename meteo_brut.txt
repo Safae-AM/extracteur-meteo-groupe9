@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "33",
-      "FeelsLikeF": "91",
+      "FeelsLikeC": "34",
+      "FeelsLikeF": "93",
       "cloudcover": "0",
-      "humidity": "20",
-      "observation_time": "12:27 PM",
+      "humidity": "22",
+      "observation_time": "01:57 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1016",
       "pressureInches": "30",
-      "temp_C": "34",
-      "temp_F": "93",
-      "uvIndex": "8",
+      "temp_C": "35",
+      "temp_F": "96",
+      "uvIndex": "7",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -27,7 +27,7 @@
         }
       ],
       "winddir16Point": "NE",
-      "winddirDegree": "56",
+      "winddirDegree": "48",
       "windspeedKmph": "15",
       "windspeedMiles": "9"
     }
@@ -36,7 +36,7 @@
     {
       "areaName": [
         {
-          "value": "Belleville-Villette"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,8 +44,8 @@
           "value": "France"
         }
       ],
-      "latitude": "48.883",
-      "longitude": "2.367",
+      "latitude": "48.850",
+      "longitude": "2.350",
       "population": "0",
       "region": [
         {
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.883,2.367"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -357,16 +357,16 @@
           "chanceofsunshine": "98",
           "chanceofthunder": "0",
           "chanceofwindy": "1",
-          "cloudcover": "2",
+          "cloudcover": "0",
           "diffRad": "87.3",
-          "humidity": "16",
+          "humidity": "22",
           "precipInches": "0.0",
           "precipMM": "0.0",
-          "pressure": "1014",
+          "pressure": "1016",
           "pressureInches": "30",
           "shortRad": "893.6",
-          "tempC": "37",
-          "tempF": "98",
+          "tempC": "35",
+          "tempF": "96",
           "time": "1500",
           "uvIndex": "7",
           "visibility": "10",
