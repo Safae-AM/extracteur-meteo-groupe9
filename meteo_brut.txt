@@ -1,17 +1,17 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "25",
-      "FeelsLikeF": "76",
+      "FeelsLikeC": "28",
+      "FeelsLikeF": "82",
       "cloudcover": "0",
-      "humidity": "65",
-      "observation_time": "06:30 AM",
+      "humidity": "39",
+      "observation_time": "08:00 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1019",
+      "pressure": "1018",
       "pressureInches": "30",
-      "temp_C": "23",
-      "temp_F": "73",
+      "temp_C": "27",
+      "temp_F": "81",
       "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
@@ -27,7 +27,7 @@
         }
       ],
       "winddir16Point": "ENE",
-      "winddirDegree": "63",
+      "winddirDegree": "72",
       "windspeedKmph": "13",
       "windspeedMiles": "8"
     }
@@ -36,7 +36,7 @@
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -255,16 +255,16 @@
           "chanceofsunshine": "58",
           "chanceofthunder": "0",
           "chanceofwindy": "1",
-          "cloudcover": "32",
+          "cloudcover": "0",
           "diffRad": "116.1",
-          "humidity": "41",
+          "humidity": "39",
           "precipInches": "0.0",
           "precipMM": "0.0",
-          "pressure": "1019",
+          "pressure": "1018",
           "pressureInches": "30",
           "shortRad": "262.9",
-          "tempC": "26",
-          "tempF": "78",
+          "tempC": "27",
+          "tempF": "81",
           "time": "900",
           "uvIndex": "1",
           "visibility": "10",
