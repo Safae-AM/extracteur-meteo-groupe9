@@ -2,10 +2,10 @@
   "current_condition": [
     {
       "FeelsLikeC": "26",
-      "FeelsLikeF": "79",
+      "FeelsLikeF": "80",
       "cloudcover": "0",
       "humidity": "34",
-      "observation_time": "11:00 PM",
+      "observation_time": "12:30 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1017",
@@ -27,8 +27,8 @@
         }
       ],
       "winddir16Point": "ENE",
-      "winddirDegree": "58",
-      "windspeedKmph": "17",
+      "winddirDegree": "61",
+      "windspeedKmph": "16",
       "windspeedMiles": "10"
     }
   ],
