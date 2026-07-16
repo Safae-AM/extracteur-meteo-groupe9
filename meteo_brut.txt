@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "28",
+      "FeelsLikeC": "29",
       "FeelsLikeF": "83",
       "cloudcover": "0",
-      "humidity": "40",
-      "observation_time": "09:36 AM",
+      "humidity": "35",
+      "observation_time": "11:07 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1017",
+      "pressure": "1016",
       "pressureInches": "30",
-      "temp_C": "28",
-      "temp_F": "83",
-      "uvIndex": "4",
+      "temp_C": "30",
+      "temp_F": "86",
+      "uvIndex": "7",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -26,17 +26,17 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
-      "winddir16Point": "NE",
-      "winddirDegree": "54",
-      "windspeedKmph": "7",
-      "windspeedMiles": "4"
+      "winddir16Point": "E",
+      "winddirDegree": "89",
+      "windspeedKmph": "5",
+      "windspeedMiles": "3"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Saint-Merri"
+          "value": "Le Kremlin-Bicetre"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.850",
-      "longitude": "2.350",
-      "population": "0",
+      "latitude": "48.817",
+      "longitude": "2.367",
+      "population": "27194",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.367"
         }
       ]
     }
