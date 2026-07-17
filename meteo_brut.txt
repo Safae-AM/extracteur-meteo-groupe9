@@ -2,41 +2,41 @@
   "current_condition": [
     {
       "FeelsLikeC": "19",
-      "FeelsLikeF": "67",
-      "cloudcover": "0",
-      "humidity": "83",
-      "observation_time": "05:09 AM",
+      "FeelsLikeF": "66",
+      "cloudcover": "75",
+      "humidity": "88",
+      "observation_time": "08:09 AM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1014",
+      "pressure": "1015",
       "pressureInches": "30",
       "temp_C": "19",
-      "temp_F": "67",
-      "uvIndex": "0",
-      "visibility": "10",
-      "visibilityMiles": "6",
-      "weatherCode": "113",
+      "temp_F": "66",
+      "uvIndex": "1",
+      "visibility": "8",
+      "visibilityMiles": "4",
+      "weatherCode": "116",
       "weatherDesc": [
         {
-          "value": "Sunny"
+          "value": "Partly cloudy"
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
         }
       ],
       "winddir16Point": "N",
       "winddirDegree": "10",
-      "windspeedKmph": "6",
-      "windspeedMiles": "4"
+      "windspeedKmph": "10",
+      "windspeedMiles": "6"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Paris"
+          "value": "Saint-Merri"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.867",
-      "longitude": "2.333",
-      "population": "2110694",
+      "latitude": "48.850",
+      "longitude": "2.350",
+      "population": "0",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.85,2.35"
         }
       ]
     }
@@ -255,33 +255,33 @@
           "chanceofsunshine": "95",
           "chanceofthunder": "0",
           "chanceofwindy": "1",
-          "cloudcover": "8",
+          "cloudcover": "75",
           "diffRad": "64.9",
-          "humidity": "63",
+          "humidity": "88",
           "precipInches": "0.0",
           "precipMM": "0.0",
-          "pressure": "1014",
+          "pressure": "1015",
           "pressureInches": "30",
           "shortRad": "299.4",
-          "tempC": "21",
-          "tempF": "70",
+          "tempC": "19",
+          "tempF": "66",
           "time": "900",
           "uvIndex": "1",
-          "visibility": "10",
-          "visibilityMiles": "6",
-          "weatherCode": "113",
+          "visibility": "8",
+          "visibilityMiles": "4",
+          "weatherCode": "116",
           "weatherDesc": [
             {
-              "value": "Sunny"
+              "value": "Partly cloudy"
             }
           ],
           "weatherIconUrl": [
             {
-              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+              "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
             }
           ],
           "winddir16Point": "N",
-          "winddirDegree": "5",
+          "winddirDegree": "10",
           "windspeedKmph": "10",
           "windspeedMiles": "6"
         },
