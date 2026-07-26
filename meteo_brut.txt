@@ -2,16 +2,16 @@
   "current_condition": [
     {
       "FeelsLikeC": "15",
-      "FeelsLikeF": "60",
-      "cloudcover": "100",
-      "humidity": "62",
-      "observation_time": "05:29 PM",
+      "FeelsLikeF": "59",
+      "cloudcover": "87",
+      "humidity": "68",
+      "observation_time": "06:59 PM",
       "precipInches": "0.0",
       "precipMM": "0.1",
       "pressure": "1010",
       "pressureInches": "30",
-      "temp_C": "23",
-      "temp_F": "74",
+      "temp_C": "22",
+      "temp_F": "71",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
@@ -26,17 +26,17 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
         }
       ],
-      "winddir16Point": "W",
-      "winddirDegree": "259",
-      "windspeedKmph": "21",
-      "windspeedMiles": "13"
+      "winddir16Point": "WSW",
+      "winddirDegree": "254",
+      "windspeedKmph": "16",
+      "windspeedMiles": "10"
     }
   ],
   "nearest_area": [
     {
       "areaName": [
         {
-          "value": "Gentilly"
+          "value": "Paris"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.817",
+      "latitude": "48.867",
       "longitude": "2.333",
-      "population": "15639",
+      "population": "2110694",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
         }
       ]
     }
