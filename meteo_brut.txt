@@ -1,18 +1,18 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "35",
-      "FeelsLikeF": "95",
-      "cloudcover": "0",
+      "FeelsLikeC": "34",
+      "FeelsLikeF": "94",
+      "cloudcover": "2",
       "humidity": "14",
-      "observation_time": "04:18 PM",
+      "observation_time": "05:48 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
       "pressure": "1019",
       "pressureInches": "30",
-      "temp_C": "37",
-      "temp_F": "98",
-      "uvIndex": "2",
+      "temp_C": "36",
+      "temp_F": "97",
+      "uvIndex": "1",
       "visibility": "10",
       "visibilityMiles": "6",
       "weatherCode": "113",
@@ -26,8 +26,8 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
         }
       ],
-      "winddir16Point": "NNE",
-      "winddirDegree": "22",
+      "winddir16Point": "N",
+      "winddirDegree": "355",
       "windspeedKmph": "4",
       "windspeedMiles": "2"
     }
@@ -36,7 +36,7 @@
     {
       "areaName": [
         {
-          "value": "Gentilly"
+          "value": "Paris"
         }
       ],
       "country": [
@@ -44,9 +44,9 @@
           "value": "France"
         }
       ],
-      "latitude": "48.817",
+      "latitude": "48.867",
       "longitude": "2.333",
-      "population": "15639",
+      "population": "2110694",
       "region": [
         {
           "value": "Ile-de-France"
@@ -54,7 +54,7 @@
       ],
       "weatherUrl": [
         {
-          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.817,2.333"
+          "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=48.867,2.333"
         }
       ]
     }
@@ -396,8 +396,8 @@
           "HeatIndexF": "96",
           "WindChillC": "37",
           "WindChillF": "98",
-          "WindGustKmph": "11",
-          "WindGustMiles": "7",
+          "WindGustKmph": "2",
+          "WindGustMiles": "2",
           "chanceoffog": "0",
           "chanceoffrost": "0",
           "chanceofhightemp": "99",
@@ -435,8 +435,8 @@
           ],
           "winddir16Point": "NNE",
           "winddirDegree": "22",
-          "windspeedKmph": "4",
-          "windspeedMiles": "2"
+          "windspeedKmph": "2",
+          "windspeedMiles": "1"
         },
         {
           "DewPointC": "4",
