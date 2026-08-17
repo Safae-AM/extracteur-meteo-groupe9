@@ -4,11 +4,11 @@
       "FeelsLikeC": "-8",
       "FeelsLikeF": "18",
       "cloudcover": "100",
-      "humidity": "64",
-      "observation_time": "10:28 AM",
+      "humidity": "62",
+      "observation_time": "11:58 AM",
       "precipInches": "0.0",
       "precipMM": "0.2",
-      "pressure": "995",
+      "pressure": "996",
       "pressureInches": "29",
       "temp_C": "1",
       "temp_F": "33",
@@ -27,9 +27,9 @@
         }
       ],
       "winddir16Point": "W",
-      "winddirDegree": "263",
-      "windspeedKmph": "55",
-      "windspeedMiles": "34"
+      "winddirDegree": "261",
+      "windspeedKmph": "58",
+      "windspeedMiles": "36"
     }
   ],
   "nearest_area": [
