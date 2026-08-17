@@ -5,14 +5,14 @@
       "FeelsLikeF": "19",
       "cloudcover": "100",
       "humidity": "63",
-      "observation_time": "05:58 AM",
+      "observation_time": "07:28 AM",
       "precipInches": "0.0",
       "precipMM": "0.2",
-      "pressure": "992",
+      "pressure": "993",
       "pressureInches": "29",
       "temp_C": "1",
       "temp_F": "33",
-      "uvIndex": "0",
+      "uvIndex": "1",
       "visibility": "0",
       "visibilityMiles": "0",
       "weatherCode": "230",
@@ -26,9 +26,9 @@
           "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0020_cloudy_with_heavy_snow.png"
         }
       ],
-      "winddir16Point": "WSW",
-      "winddirDegree": "258",
-      "windspeedKmph": "51",
+      "winddir16Point": "W",
+      "winddirDegree": "261",
+      "windspeedKmph": "52",
       "windspeedMiles": "32"
     }
   ],
