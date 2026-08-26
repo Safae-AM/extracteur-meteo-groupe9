@@ -5,7 +5,7 @@
       "FeelsLikeF": "72",
       "cloudcover": "100",
       "humidity": "77",
-      "observation_time": "10:30 PM",
+      "observation_time": "12:00 AM",
       "precipInches": "0.0",
       "precipMM": "0.4",
       "pressure": "1012",
