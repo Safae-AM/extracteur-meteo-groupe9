@@ -1,35 +1,35 @@
 {
   "current_condition": [
     {
-      "FeelsLikeC": "19",
-      "FeelsLikeF": "66",
-      "cloudcover": "42",
-      "humidity": "36",
-      "observation_time": "05:35 PM",
+      "FeelsLikeC": "17",
+      "FeelsLikeF": "63",
+      "cloudcover": "99",
+      "humidity": "42",
+      "observation_time": "07:05 PM",
       "precipInches": "0.0",
       "precipMM": "0.0",
-      "pressure": "1017",
+      "pressure": "1019",
       "pressureInches": "30",
-      "temp_C": "22",
-      "temp_F": "71",
+      "temp_C": "19",
+      "temp_F": "67",
       "uvIndex": "0",
       "visibility": "10",
       "visibilityMiles": "6",
-      "weatherCode": "116",
+      "weatherCode": "122",
       "weatherDesc": [
         {
-          "value": "Partly Cloudy "
+          "value": "Overcast "
         }
       ],
       "weatherIconUrl": [
         {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
         }
       ],
       "winddir16Point": "W",
-      "winddirDegree": "277",
-      "windspeedKmph": "9",
-      "windspeedMiles": "5"
+      "winddirDegree": "280",
+      "windspeedKmph": "6",
+      "windspeedMiles": "4"
     }
   ],
   "nearest_area": [
